@@ -11,14 +11,8 @@ import glob
 import re
 
 def create_csv(player_gw_dir, fpl_gw_dir, players_raw_dir, teams_folder, year):
-    player_gw = pd.read_csv("C:\\Users\\Sama\\Documents\\Yukthi's_Work\\player_gameweeks_2020-2021.csv")
-    fpl_gw = pd.read_csv("C:\\Users\\Sama\\Documents\\Yukthi's_Work\\FPL\\New_data\\2021\\merged_gw.csv")
-    players_raw = pd.read_csv("C:\\Users\\Sama\\Documents\\Yukthi's_Work\\FPL\\New_data\\2021\\players_raw.csv")
-    
-    players_raw['name'] = players_raw['first_name'] +" "+ players_raw['second_name']
-    player_gw['Round'] = player_gw['Round'].str.replace("Matchweek ", "")
-    player_gw['Round'] = player_gw['Round'].astype('int32')
-    
+    df = pd.read_csv("Data/combined_2022.csv")
+
     fpl_gw = fpl_gw.rename(columns = {'GW':'Round'})
     
     fpl_gw['Round'] =fpl_gw['Round'].apply(lambda x: x-9 if x>29 else x)

@@ -31,8 +31,8 @@ def clean_names(player_data, fpl_data):
     #             "Ã£": "a"}
 
     player_df['last_name'] = player_df['name'].str.split().str[-1]
-    combined_df = pd.merge(fpl_df, player_df, on='last_name', how='left')
+    player_df['round'] = player_df['Round'].str.replace("Matchweek ", "").astype("int")
+    combined_df = pd.merge(fpl_df, player_df, on=['last_name', 'round'], how='left')
     features = ['round', 'Squad', 'opponent_team', 'was_home', 'total_points',
                 'minutes', 'value', 'last_name', 'Pos', 'xG', 'xA', 'PSxG']
-    combined_df.columns
-    combined_df.to_csv("Data/combined_2022.csv")
+    combined_df[features].to_csv("Data/combined_2022.csv")

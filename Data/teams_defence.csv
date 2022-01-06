@@ -1,0 +1,383 @@
+,squad,Round,Venue,Opponent,xG,npxG
+0,Manchester City,Matchweek 1,Away,Tottenham,1.3,1.3
+1,Manchester City,Matchweek 2,Home,Norwich City,0.1,0.1
+2,Manchester City,Matchweek 3,Home,Arsenal,0.1,0.1
+3,Manchester City,Matchweek 4,Away,Leicester City,0.8,0.8
+4,Manchester City,Matchweek 5,Home,Southampton,0.4,0.4
+5,Manchester City,Matchweek 6,Away,Chelsea,0.3,0.3
+6,Manchester City,Matchweek 7,Away,Liverpool,1.0,1.0
+7,Manchester City,Matchweek 8,Home,Burnley,1.0,1.0
+8,Manchester City,Matchweek 9,Away,Brighton,1.3,0.6
+9,Manchester City,Matchweek 10,Home,Crystal Palace,1.1,1.1
+10,Manchester City,Matchweek 11,Away,Manchester Utd,0.6,0.6
+11,Manchester City,Matchweek 12,Home,Everton,0.3,0.3
+12,Manchester City,Matchweek 13,Home,West Ham,0.2,0.2
+13,Manchester City,Matchweek 14,Away,Aston Villa,0.9,0.9
+14,Manchester City,Matchweek 15,Away,Watford,0.7,0.7
+15,Manchester City,Matchweek 16,Home,Wolves,0.2,0.2
+16,Manchester City,Matchweek 17,Home,Leeds United,0.2,0.2
+17,Manchester City,Matchweek 18,Away,Newcastle Utd,0.4,0.4
+18,Manchester City,Matchweek 19,Home,Leicester City,2.3,2.3
+19,Manchester City,Matchweek 20,Away,Brentford,0.3,0.3
+20,Manchester City,Matchweek 21,Away,Arsenal,1.0,1.0
+21,Chelsea,Matchweek 1,Home,Crystal Palace,0.3,0.3
+22,Chelsea,Matchweek 2,Away,Arsenal,0.3,0.3
+23,Chelsea,Matchweek 3,Away,Liverpool,2.6,2.3
+24,Chelsea,Matchweek 4,Home,Aston Villa,1.5,1.5
+25,Chelsea,Matchweek 5,Away,Tottenham,0.7,0.7
+26,Chelsea,Matchweek 6,Home,Manchester City,1.7,1.7
+27,Chelsea,Matchweek 7,Home,Southampton,1.3,0.6
+28,Chelsea,Matchweek 8,Away,Brentford,1.6,1.6
+29,Chelsea,Matchweek 9,Home,Norwich City,0.2,0.2
+30,Chelsea,Matchweek 10,Away,Newcastle Utd,0.3,0.3
+31,Chelsea,Matchweek 11,Home,Burnley,1.0,1.0
+32,Chelsea,Matchweek 12,Away,Leicester City,0.4,0.4
+33,Chelsea,Matchweek 13,Home,Manchester Utd,0.7,0.7
+34,Chelsea,Matchweek 14,Away,Watford,1.0,1.0
+35,Chelsea,Matchweek 15,Away,West Ham,1.8,1.0
+36,Chelsea,Matchweek 16,Home,Leeds United,1.4,0.6
+37,Chelsea,Matchweek 17,Home,Everton,0.4,0.4
+38,Chelsea,Matchweek 18,Away,Wolves,0.3,0.3
+39,Chelsea,Matchweek 19,Away,Aston Villa,0.6,0.6
+40,Chelsea,Matchweek 20,Home,Brighton,0.9,0.9
+41,Chelsea,Matchweek 21,Home,Liverpool,1.3,1.3
+42,Liverpool,Matchweek 1,Away,Norwich City,1.4,1.4
+43,Liverpool,Matchweek 2,Home,Burnley,0.7,0.7
+44,Liverpool,Matchweek 3,Home,Chelsea,0.8,0.8
+45,Liverpool,Matchweek 4,Away,Leeds United,1.2,1.2
+46,Liverpool,Matchweek 5,Home,Crystal Palace,0.8,0.8
+47,Liverpool,Matchweek 6,Away,Brentford,1.9,1.9
+48,Liverpool,Matchweek 7,Home,Manchester City,1.2,1.2
+49,Liverpool,Matchweek 8,Away,Watford,0.5,0.5
+50,Liverpool,Matchweek 9,Away,Manchester Utd,1.5,1.5
+51,Liverpool,Matchweek 10,Home,Brighton,1.1,1.1
+52,Liverpool,Matchweek 11,Away,West Ham,1.0,1.0
+53,Liverpool,Matchweek 12,Home,Arsenal,0.4,0.4
+54,Liverpool,Matchweek 13,Home,Southampton,1.0,1.0
+55,Liverpool,Matchweek 14,Away,Everton,0.6,0.6
+56,Liverpool,Matchweek 15,Away,Wolves,0.2,0.2
+57,Liverpool,Matchweek 16,Home,Aston Villa,0.4,0.4
+58,Liverpool,Matchweek 17,Home,Newcastle Utd,0.3,0.3
+59,Liverpool,Matchweek 18,Away,Tottenham,3.4,3.4
+60,Liverpool,Matchweek 20,Away,Leicester City,0.6,0.6
+61,Liverpool,Matchweek 21,Away,Chelsea,1.3,1.3
+62,Arsenal,Matchweek 1,Away,Brentford,1.3,1.3
+63,Arsenal,Matchweek 2,Home,Chelsea,2.9,2.9
+64,Arsenal,Matchweek 3,Away,Manchester City,3.8,3.8
+65,Arsenal,Matchweek 4,Home,Norwich City,0.6,0.6
+66,Arsenal,Matchweek 5,Away,Burnley,1.3,1.3
+67,Arsenal,Matchweek 6,Home,Tottenham,1.0,1.0
+68,Arsenal,Matchweek 7,Away,Brighton,1.4,1.4
+69,Arsenal,Matchweek 8,Home,Crystal Palace,0.9,0.9
+70,Arsenal,Matchweek 9,Home,Aston Villa,1.4,1.4
+71,Arsenal,Matchweek 10,Away,Leicester City,1.2,1.2
+72,Arsenal,Matchweek 11,Home,Watford,0.7,0.7
+73,Arsenal,Matchweek 12,Away,Liverpool,4.3,4.3
+74,Arsenal,Matchweek 13,Home,Newcastle Utd,0.2,0.2
+75,Arsenal,Matchweek 14,Away,Manchester Utd,1.9,1.1
+76,Arsenal,Matchweek 15,Away,Everton,1.0,1.0
+77,Arsenal,Matchweek 16,Home,Southampton,0.6,0.6
+78,Arsenal,Matchweek 17,Home,West Ham,0.3,0.3
+79,Arsenal,Matchweek 18,Away,Leeds United,1.6,0.8
+80,Arsenal,Matchweek 19,Away,Norwich City,0.1,0.1
+81,Arsenal,Matchweek 21,Home,Manchester City,1.8,1.0
+82,West Ham United,Matchweek 1,Away,Newcastle Utd,1.5,1.5
+83,West Ham United,Matchweek 2,Home,Leicester City,0.8,0.8
+84,West Ham United,Matchweek 3,Home,Crystal Palace,0.7,0.7
+85,West Ham United,Matchweek 4,Away,Southampton,0.8,0.8
+86,West Ham United,Matchweek 5,Home,Manchester Utd,1.8,1.8
+87,West Ham United,Matchweek 6,Away,Leeds United,1.3,1.3
+88,West Ham United,Matchweek 7,Home,Brentford,1.2,1.2
+89,West Ham United,Matchweek 8,Away,Everton,0.8,0.8
+90,West Ham United,Matchweek 9,Home,Tottenham,0.7,0.7
+91,West Ham United,Matchweek 10,Away,Aston Villa,0.7,0.7
+92,West Ham United,Matchweek 11,Home,Liverpool,1.4,1.4
+93,West Ham United,Matchweek 12,Away,Wolves,1.2,1.2
+94,West Ham United,Matchweek 13,Away,Manchester City,2.1,2.1
+95,West Ham United,Matchweek 14,Home,Brighton,1.1,1.1
+96,West Ham United,Matchweek 15,Home,Chelsea,1.2,1.2
+97,West Ham United,Matchweek 16,Away,Burnley,0.7,0.7
+98,West Ham United,Matchweek 17,Away,Arsenal,2.7,1.9
+99,West Ham United,Matchweek 19,Home,Southampton,1.3,0.5
+100,West Ham United,Matchweek 20,Away,Watford,1.1,1.1
+101,West Ham United,Matchweek 21,Away,Crystal Palace,2.2,2.2
+102,Tottenham Hotspur,Matchweek 1,Home,Manchester City,1.9,1.9
+103,Tottenham Hotspur,Matchweek 2,Away,Wolves,1.4,1.4
+104,Tottenham Hotspur,Matchweek 3,Home,Watford,0.6,0.6
+105,Tottenham Hotspur,Matchweek 4,Away,Crystal Palace,2.4,1.7
+106,Tottenham Hotspur,Matchweek 5,Home,Chelsea,1.9,1.9
+107,Tottenham Hotspur,Matchweek 6,Away,Arsenal,0.8,0.8
+108,Tottenham Hotspur,Matchweek 7,Home,Aston Villa,1.1,1.1
+109,Tottenham Hotspur,Matchweek 8,Away,Newcastle Utd,0.5,0.5
+110,Tottenham Hotspur,Matchweek 9,Away,West Ham,1.2,1.2
+111,Tottenham Hotspur,Matchweek 10,Home,Manchester Utd,1.2,1.2
+112,Tottenham Hotspur,Matchweek 11,Away,Everton,0.5,0.5
+113,Tottenham Hotspur,Matchweek 12,Home,Leeds United,1.1,1.1
+114,Tottenham Hotspur,Matchweek 14,Home,Brentford,0.3,0.3
+115,Tottenham Hotspur,Matchweek 15,Home,Norwich City,1.6,1.6
+116,Tottenham Hotspur,Matchweek 18,Home,Liverpool,1.5,1.5
+117,Tottenham Hotspur,Matchweek 19,Home,Crystal Palace,0.2,0.2
+118,Tottenham Hotspur,Matchweek 20,Away,Southampton,0.4,0.4
+119,Tottenham Hotspur,Matchweek 21,Away,Watford,0.3,0.3
+120,Manchester United,Matchweek 1,Home,Leeds United,0.6,0.6
+121,Manchester United,Matchweek 2,Away,Southampton,0.8,0.8
+122,Manchester United,Matchweek 3,Away,Wolves,1.8,1.8
+123,Manchester United,Matchweek 4,Home,Newcastle Utd,0.7,0.7
+124,Manchester United,Matchweek 5,Away,West Ham,1.6,0.8
+125,Manchester United,Matchweek 6,Home,Aston Villa,1.2,1.2
+126,Manchester United,Matchweek 7,Home,Everton,1.1,1.1
+127,Manchester United,Matchweek 8,Away,Leicester City,3.1,3.1
+128,Manchester United,Matchweek 9,Home,Liverpool,3.8,3.8
+129,Manchester United,Matchweek 10,Away,Tottenham,0.7,0.7
+130,Manchester United,Matchweek 11,Home,Manchester City,2.0,2.0
+131,Manchester United,Matchweek 12,Away,Watford,2.2,1.5
+132,Manchester United,Matchweek 13,Away,Chelsea,2.9,2.1
+133,Manchester United,Matchweek 14,Home,Arsenal,1.5,1.5
+134,Manchester United,Matchweek 15,Home,Crystal Palace,0.9,0.9
+135,Manchester United,Matchweek 16,Away,Norwich City,0.9,0.9
+136,Manchester United,Matchweek 19,Away,Newcastle Utd,1.1,1.1
+137,Manchester United,Matchweek 20,Home,Burnley,0.8,0.8
+138,Manchester United,Matchweek 21,Home,Wolves,0.7,0.7
+139,Wolverhampton Wanderers,Matchweek 1,Away,Leicester City,0.8,0.8
+140,Wolverhampton Wanderers,Matchweek 2,Home,Tottenham,1.5,0.7
+141,Wolverhampton Wanderers,Matchweek 3,Home,Manchester Utd,0.6,0.6
+142,Wolverhampton Wanderers,Matchweek 4,Away,Watford,0.2,0.2
+143,Wolverhampton Wanderers,Matchweek 5,Home,Brentford,2.5,1.7
+144,Wolverhampton Wanderers,Matchweek 6,Away,Southampton,1.2,1.2
+145,Wolverhampton Wanderers,Matchweek 7,Home,Newcastle Utd,0.6,0.6
+146,Wolverhampton Wanderers,Matchweek 8,Away,Aston Villa,1.1,1.1
+147,Wolverhampton Wanderers,Matchweek 9,Away,Leeds United,1.9,1.1
+148,Wolverhampton Wanderers,Matchweek 10,Home,Everton,1.5,1.5
+149,Wolverhampton Wanderers,Matchweek 11,Away,Crystal Palace,2.0,2.0
+150,Wolverhampton Wanderers,Matchweek 12,Home,West Ham,0.5,0.5
+151,Wolverhampton Wanderers,Matchweek 13,Away,Norwich City,1.5,1.5
+152,Wolverhampton Wanderers,Matchweek 14,Home,Burnley,0.2,0.2
+153,Wolverhampton Wanderers,Matchweek 15,Home,Liverpool,2.5,2.5
+154,Wolverhampton Wanderers,Matchweek 16,Away,Manchester City,3.5,2.7
+155,Wolverhampton Wanderers,Matchweek 17,Away,Brighton,1.1,1.1
+156,Wolverhampton Wanderers,Matchweek 18,Home,Chelsea,0.8,0.8
+157,Wolverhampton Wanderers,Matchweek 21,Away,Manchester Utd,0.8,0.8
+158,Brighton and Hove Albion,Matchweek 1,Away,Burnley,1.0,1.0
+159,Brighton and Hove Albion,Matchweek 2,Home,Watford,0.9,0.9
+160,Brighton and Hove Albion,Matchweek 3,Home,Everton,1.6,0.8
+161,Brighton and Hove Albion,Matchweek 4,Away,Brentford,0.7,0.7
+162,Brighton and Hove Albion,Matchweek 5,Home,Leicester City,1.7,1.7
+163,Brighton and Hove Albion,Matchweek 6,Away,Crystal Palace,1.4,0.6
+164,Brighton and Hove Albion,Matchweek 7,Home,Arsenal,0.5,0.5
+165,Brighton and Hove Albion,Matchweek 8,Away,Norwich City,1.0,1.0
+166,Brighton and Hove Albion,Matchweek 9,Home,Manchester City,3.9,3.9
+167,Brighton and Hove Albion,Matchweek 10,Away,Liverpool,1.1,1.1
+168,Brighton and Hove Albion,Matchweek 11,Home,Newcastle Utd,0.2,0.2
+169,Brighton and Hove Albion,Matchweek 12,Away,Aston Villa,0.6,0.6
+170,Brighton and Hove Albion,Matchweek 13,Home,Leeds United,0.9,0.9
+171,Brighton and Hove Albion,Matchweek 14,Away,West Ham,1.6,1.6
+172,Brighton and Hove Albion,Matchweek 15,Away,Southampton,1.4,1.4
+173,Brighton and Hove Albion,Matchweek 17,Home,Wolves,1.3,1.3
+174,Brighton and Hove Albion,Matchweek 19,Home,Brentford,0.9,0.9
+175,Brighton and Hove Albion,Matchweek 20,Away,Chelsea,1.1,1.1
+176,Brighton and Hove Albion,Matchweek 21,Away,Everton,1.7,1.0
+177,Leicester City,Matchweek 1,Home,Wolves,1.1,1.1
+178,Leicester City,Matchweek 2,Away,West Ham,2.5,2.5
+179,Leicester City,Matchweek 3,Away,Norwich City,1.6,0.9
+180,Leicester City,Matchweek 4,Home,Manchester City,2.9,2.9
+181,Leicester City,Matchweek 5,Away,Brighton,1.4,0.7
+182,Leicester City,Matchweek 6,Home,Burnley,0.7,0.7
+183,Leicester City,Matchweek 7,Away,Crystal Palace,1.3,1.3
+184,Leicester City,Matchweek 8,Home,Manchester Utd,1.4,1.4
+185,Leicester City,Matchweek 9,Away,Brentford,1.2,1.2
+186,Leicester City,Matchweek 10,Home,Arsenal,0.9,0.9
+187,Leicester City,Matchweek 11,Away,Leeds United,1.2,1.2
+188,Leicester City,Matchweek 12,Home,Chelsea,2.4,2.4
+189,Leicester City,Matchweek 13,Home,Watford,2.7,2.0
+190,Leicester City,Matchweek 14,Away,Southampton,1.5,1.5
+191,Leicester City,Matchweek 15,Away,Aston Villa,2.0,2.0
+192,Leicester City,Matchweek 16,Home,Newcastle Utd,0.6,0.6
+193,Leicester City,Matchweek 19,Away,Manchester City,3.4,1.9
+194,Leicester City,Matchweek 20,Home,Liverpool,2.5,1.6
+195,Crystal Palace,Matchweek 1,Away,Chelsea,0.9,0.9
+196,Crystal Palace,Matchweek 2,Home,Brentford,0.9,0.9
+197,Crystal Palace,Matchweek 3,Away,West Ham,1.2,1.2
+198,Crystal Palace,Matchweek 4,Home,Tottenham,0.1,0.1
+199,Crystal Palace,Matchweek 5,Away,Liverpool,2.7,2.7
+200,Crystal Palace,Matchweek 6,Home,Brighton,0.6,0.6
+201,Crystal Palace,Matchweek 7,Home,Leicester City,1.7,1.7
+202,Crystal Palace,Matchweek 8,Away,Arsenal,1.4,1.4
+203,Crystal Palace,Matchweek 9,Home,Newcastle Utd,0.4,0.4
+204,Crystal Palace,Matchweek 10,Away,Manchester City,1.1,1.1
+205,Crystal Palace,Matchweek 11,Home,Wolves,0.2,0.2
+206,Crystal Palace,Matchweek 12,Away,Burnley,1.3,1.3
+207,Crystal Palace,Matchweek 13,Home,Aston Villa,0.4,0.4
+208,Crystal Palace,Matchweek 14,Away,Leeds United,1.7,1.0
+209,Crystal Palace,Matchweek 15,Away,Manchester Utd,1.1,1.1
+210,Crystal Palace,Matchweek 16,Home,Everton,1.3,1.3
+211,Crystal Palace,Matchweek 17,Home,Southampton,0.7,0.7
+212,Crystal Palace,Matchweek 19,Away,Tottenham,2.5,2.5
+213,Crystal Palace,Matchweek 20,Home,Norwich City,1.2,1.2
+214,Crystal Palace,Matchweek 21,Home,West Ham,2.0,1.2
+215,Brentford,Matchweek 1,Home,Arsenal,1.4,1.4
+216,Brentford,Matchweek 2,Away,Crystal Palace,0.6,0.6
+217,Brentford,Matchweek 3,Away,Aston Villa,0.6,0.6
+218,Brentford,Matchweek 4,Home,Brighton,0.2,0.2
+219,Brentford,Matchweek 5,Away,Wolves,0.6,0.6
+220,Brentford,Matchweek 6,Home,Liverpool,2.5,2.5
+221,Brentford,Matchweek 7,Away,West Ham,1.3,1.3
+222,Brentford,Matchweek 8,Home,Chelsea,0.3,0.3
+223,Brentford,Matchweek 9,Home,Leicester City,1.5,1.5
+224,Brentford,Matchweek 10,Away,Burnley,2.2,2.2
+225,Brentford,Matchweek 11,Home,Norwich City,1.4,0.6
+226,Brentford,Matchweek 12,Away,Newcastle Utd,1.6,1.6
+227,Brentford,Matchweek 13,Home,Everton,0.9,0.9
+228,Brentford,Matchweek 14,Away,Tottenham,2.4,2.4
+229,Brentford,Matchweek 15,Away,Leeds United,1.2,1.2
+230,Brentford,Matchweek 16,Home,Watford,0.6,0.6
+231,Brentford,Matchweek 19,Away,Brighton,0.9,0.9
+232,Brentford,Matchweek 20,Home,Manchester City,0.8,0.8
+233,Brentford,Matchweek 21,Home,Aston Villa,1.2,1.2
+234,Aston Villa,Matchweek 1,Away,Watford,1.2,1.2
+235,Aston Villa,Matchweek 2,Home,Newcastle Utd,0.7,0.7
+236,Aston Villa,Matchweek 3,Home,Brentford,1.1,1.1
+237,Aston Villa,Matchweek 4,Away,Chelsea,1.1,1.1
+238,Aston Villa,Matchweek 5,Home,Everton,0.7,0.7
+239,Aston Villa,Matchweek 6,Away,Manchester Utd,2.3,1.6
+240,Aston Villa,Matchweek 7,Away,Tottenham,1.7,1.7
+241,Aston Villa,Matchweek 8,Home,Wolves,2.0,2.0
+242,Aston Villa,Matchweek 9,Away,Arsenal,2.7,1.9
+243,Aston Villa,Matchweek 10,Home,West Ham,2.3,2.3
+244,Aston Villa,Matchweek 11,Away,Southampton,0.8,0.8
+245,Aston Villa,Matchweek 12,Home,Brighton,0.4,0.4
+246,Aston Villa,Matchweek 13,Away,Crystal Palace,0.9,0.9
+247,Aston Villa,Matchweek 14,Home,Manchester City,0.9,0.9
+248,Aston Villa,Matchweek 15,Home,Leicester City,1.4,1.4
+249,Aston Villa,Matchweek 16,Away,Liverpool,2.5,1.7
+250,Aston Villa,Matchweek 17,Away,Norwich City,0.5,0.5
+251,Aston Villa,Matchweek 19,Home,Chelsea,2.8,1.4
+252,Aston Villa,Matchweek 21,Away,Brentford,0.6,0.6
+253,Southampton,Matchweek 1,Away,Everton,2.4,2.4
+254,Southampton,Matchweek 2,Home,Manchester Utd,1.4,1.4
+255,Southampton,Matchweek 3,Away,Newcastle Utd,1.4,1.4
+256,Southampton,Matchweek 4,Home,West Ham,0.6,0.6
+257,Southampton,Matchweek 5,Away,Manchester City,1.1,1.1
+258,Southampton,Matchweek 6,Home,Wolves,1.0,1.0
+259,Southampton,Matchweek 7,Away,Chelsea,3.6,3.6
+260,Southampton,Matchweek 8,Home,Leeds United,0.2,0.2
+261,Southampton,Matchweek 9,Home,Burnley,0.7,0.7
+262,Southampton,Matchweek 10,Away,Watford,1.2,1.2
+263,Southampton,Matchweek 11,Home,Aston Villa,0.6,0.6
+264,Southampton,Matchweek 12,Away,Norwich City,0.5,0.5
+265,Southampton,Matchweek 13,Away,Liverpool,2.5,2.5
+266,Southampton,Matchweek 14,Home,Leicester City,1.5,1.5
+267,Southampton,Matchweek 15,Home,Brighton,1.4,1.4
+268,Southampton,Matchweek 16,Away,Arsenal,1.5,1.5
+269,Southampton,Matchweek 17,Away,Crystal Palace,1.2,1.2
+270,Southampton,Matchweek 19,Away,West Ham,1.7,1.7
+271,Southampton,Matchweek 20,Home,Tottenham,2.4,1.7
+272,Everton,Matchweek 1,Home,Southampton,0.7,0.7
+273,Everton,Matchweek 2,Away,Leeds United,1.5,1.5
+274,Everton,Matchweek 3,Away,Brighton,1.0,1.0
+275,Everton,Matchweek 4,Home,Burnley,1.3,1.3
+276,Everton,Matchweek 5,Away,Aston Villa,1.3,1.3
+277,Everton,Matchweek 6,Home,Norwich City,0.6,0.6
+278,Everton,Matchweek 7,Away,Manchester Utd,0.9,0.9
+279,Everton,Matchweek 8,Home,West Ham,1.5,1.5
+280,Everton,Matchweek 9,Home,Watford,3.2,3.2
+281,Everton,Matchweek 10,Away,Wolves,1.6,1.6
+282,Everton,Matchweek 11,Home,Tottenham,0.8,0.8
+283,Everton,Matchweek 12,Away,Manchester City,2.3,2.3
+284,Everton,Matchweek 13,Away,Brentford,1.2,0.5
+285,Everton,Matchweek 14,Home,Liverpool,2.1,2.1
+286,Everton,Matchweek 15,Home,Arsenal,1.2,1.2
+287,Everton,Matchweek 16,Away,Crystal Palace,1.5,1.5
+288,Everton,Matchweek 17,Away,Chelsea,2.7,2.7
+289,Everton,Matchweek 21,Home,Brighton,1.5,1.5
+290,Leeds United,Matchweek 1,Away,Manchester Utd,1.5,1.5
+291,Leeds United,Matchweek 2,Home,Everton,2.0,1.3
+292,Leeds United,Matchweek 3,Away,Burnley,1.4,1.4
+293,Leeds United,Matchweek 4,Home,Liverpool,4.0,4.0
+294,Leeds United,Matchweek 5,Away,Newcastle Utd,1.3,1.3
+295,Leeds United,Matchweek 6,Home,West Ham,1.8,1.8
+296,Leeds United,Matchweek 7,Home,Watford,0.2,0.2
+297,Leeds United,Matchweek 8,Away,Southampton,2.2,2.2
+298,Leeds United,Matchweek 9,Home,Wolves,1.0,1.0
+299,Leeds United,Matchweek 10,Away,Norwich City,0.9,0.9
+300,Leeds United,Matchweek 11,Home,Leicester City,1.1,1.1
+301,Leeds United,Matchweek 12,Away,Tottenham,2.0,2.0
+302,Leeds United,Matchweek 13,Away,Brighton,2.1,2.1
+303,Leeds United,Matchweek 14,Home,Crystal Palace,1.0,1.0
+304,Leeds United,Matchweek 15,Home,Brentford,1.0,1.0
+305,Leeds United,Matchweek 16,Away,Chelsea,2.8,1.3
+306,Leeds United,Matchweek 17,Away,Manchester City,3.5,3.5
+307,Leeds United,Matchweek 18,Home,Arsenal,3.2,3.2
+308,Leeds United,Matchweek 21,Home,Burnley,1.0,1.0
+309,Watford,Matchweek 1,Home,Aston Villa,1.1,0.3
+310,Watford,Matchweek 2,Away,Brighton,1.5,1.5
+311,Watford,Matchweek 3,Away,Tottenham,0.9,0.9
+312,Watford,Matchweek 4,Home,Wolves,2.1,2.1
+313,Watford,Matchweek 5,Away,Norwich City,1.0,1.0
+314,Watford,Matchweek 6,Home,Newcastle Utd,2.5,2.5
+315,Watford,Matchweek 7,Away,Leeds United,1.9,1.9
+316,Watford,Matchweek 8,Home,Liverpool,3.6,3.6
+317,Watford,Matchweek 9,Away,Everton,2.3,2.3
+318,Watford,Matchweek 10,Home,Southampton,2.0,2.0
+319,Watford,Matchweek 11,Away,Arsenal,1.7,0.9
+320,Watford,Matchweek 12,Home,Manchester Utd,1.6,1.6
+321,Watford,Matchweek 13,Away,Leicester City,2.2,2.2
+322,Watford,Matchweek 14,Home,Chelsea,1.3,1.3
+323,Watford,Matchweek 15,Home,Manchester City,3.6,3.6
+324,Watford,Matchweek 16,Away,Brentford,1.9,1.1
+325,Watford,Matchweek 20,Home,West Ham,2.9,2.1
+326,Watford,Matchweek 21,Home,Tottenham,2.0,2.0
+327,Burnley,Matchweek 1,Home,Brighton,1.3,1.3
+328,Burnley,Matchweek 2,Away,Liverpool,2.9,2.9
+329,Burnley,Matchweek 3,Home,Leeds United,1.5,1.5
+330,Burnley,Matchweek 4,Away,Everton,1.3,1.3
+331,Burnley,Matchweek 5,Home,Arsenal,1.2,1.2
+332,Burnley,Matchweek 6,Away,Leicester City,2.6,2.6
+333,Burnley,Matchweek 7,Home,Norwich City,0.5,0.5
+334,Burnley,Matchweek 8,Away,Manchester City,1.9,1.9
+335,Burnley,Matchweek 9,Away,Southampton,1.6,1.6
+336,Burnley,Matchweek 10,Home,Brentford,0.7,0.7
+337,Burnley,Matchweek 11,Away,Chelsea,2.2,2.2
+338,Burnley,Matchweek 12,Home,Crystal Palace,2.0,2.0
+339,Burnley,Matchweek 14,Away,Wolves,0.7,0.7
+340,Burnley,Matchweek 15,Away,Newcastle Utd,1.3,1.3
+341,Burnley,Matchweek 16,Home,West Ham,0.6,0.6
+342,Burnley,Matchweek 20,Away,Manchester Utd,2.0,2.0
+343,Burnley,Matchweek 21,Away,Leeds United,1.6,1.6
+344,Newcastle United,Matchweek 1,Home,West Ham,2.3,2.0
+345,Newcastle United,Matchweek 2,Away,Aston Villa,1.1,0.4
+346,Newcastle United,Matchweek 3,Home,Southampton,3.6,2.8
+347,Newcastle United,Matchweek 4,Away,Manchester Utd,2.1,2.1
+348,Newcastle United,Matchweek 5,Home,Leeds United,2.0,2.0
+349,Newcastle United,Matchweek 6,Away,Watford,1.1,1.1
+350,Newcastle United,Matchweek 7,Away,Wolves,0.9,0.9
+351,Newcastle United,Matchweek 8,Home,Tottenham,1.6,1.6
+352,Newcastle United,Matchweek 9,Away,Crystal Palace,1.7,1.7
+353,Newcastle United,Matchweek 10,Home,Chelsea,2.1,1.3
+354,Newcastle United,Matchweek 11,Away,Brighton,1.6,0.9
+355,Newcastle United,Matchweek 12,Home,Brentford,0.8,0.8
+356,Newcastle United,Matchweek 13,Away,Arsenal,2.0,2.0
+357,Newcastle United,Matchweek 14,Home,Norwich City,1.4,1.4
+358,Newcastle United,Matchweek 15,Home,Burnley,0.7,0.7
+359,Newcastle United,Matchweek 16,Away,Leicester City,2.5,1.7
+360,Newcastle United,Matchweek 17,Away,Liverpool,2.4,2.4
+361,Newcastle United,Matchweek 18,Home,Manchester City,3.1,3.1
+362,Newcastle United,Matchweek 19,Home,Manchester Utd,1.2,1.2
+363,Norwich City,Matchweek 1,Home,Liverpool,2.0,2.0
+364,Norwich City,Matchweek 2,Away,Manchester City,2.7,2.7
+365,Norwich City,Matchweek 3,Home,Leicester City,1.3,1.3
+366,Norwich City,Matchweek 4,Away,Arsenal,2.8,2.8
+367,Norwich City,Matchweek 5,Home,Watford,1.8,1.8
+368,Norwich City,Matchweek 6,Away,Everton,2.1,1.3
+369,Norwich City,Matchweek 7,Away,Burnley,1.0,1.0
+370,Norwich City,Matchweek 8,Home,Brighton,0.9,0.9
+371,Norwich City,Matchweek 9,Away,Chelsea,3.2,2.6
+372,Norwich City,Matchweek 10,Home,Leeds United,1.0,1.0
+373,Norwich City,Matchweek 11,Away,Brentford,2.2,2.2
+374,Norwich City,Matchweek 12,Home,Southampton,1.1,1.1
+375,Norwich City,Matchweek 13,Home,Wolves,0.3,0.3
+376,Norwich City,Matchweek 14,Away,Newcastle Utd,1.1,0.4
+377,Norwich City,Matchweek 15,Away,Tottenham,1.7,1.7
+378,Norwich City,Matchweek 16,Home,Manchester Utd,1.9,1.2
+379,Norwich City,Matchweek 17,Home,Aston Villa,1.7,1.7
+380,Norwich City,Matchweek 19,Home,Arsenal,2.5,1.7
+381,Norwich City,Matchweek 20,Away,Crystal Palace,2.0,1.2

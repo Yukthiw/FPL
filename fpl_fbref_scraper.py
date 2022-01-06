@@ -5,9 +5,8 @@ Updated on Sunday Dec 26, 2021
 
 @author: Yukthi Wickramarachchi
 """
-from bs4 import BeautifulSoup, Comment
+from bs4 import BeautifulSoup
 import requests
-import lxml
 import pandas as pd
 import re
 
