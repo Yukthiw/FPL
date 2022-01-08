@@ -6,7 +6,6 @@ Created on Sat Jan  2 17:57:09 2021
 """
 
 import fpl_fbref_scraper
-import fpl_feature_engineer
 import tkinter
 from tkinter import filedialog
 

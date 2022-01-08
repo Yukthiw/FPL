@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import re
 
-from scraper import Scraper
+from Scrapers.scraper import Scraper
 
 
 class TeamScraper(Scraper):

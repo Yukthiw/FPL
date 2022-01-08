@@ -10,7 +10,7 @@ import re
 import requests
 import time
 
-from scraper import Scraper
+from Scrapers.scraper import Scraper
 
 
 class FPLScraper(Scraper):
@@ -39,4 +39,4 @@ class FPLScraper(Scraper):
             time.sleep(2)
 
         player_df = player_df.merge(player_names_df, how='left', left_on='element', right_on='id')
-        player_df.to_csv(self.target)
+        player_df.to_csv(self.target + 'fpl_data.csv')
