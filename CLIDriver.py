@@ -1,4 +1,4 @@
-from ScraperController import ScraperController
+from Controllers import ScraperController
 
 
 def print_option_list():
@@ -15,14 +15,22 @@ class CLIController:
         is_running = True
         while is_running:
             print_option_list()
-            scraper_controller = ScraperController()
+            scraper_controller = ScraperController.ScraperController()
             user_input = input("Enter desired option number: \n")
             if user_input == "1":
-                scraper_controller.get_player_data('https://fbref.com/en/comps/9/Premier-League-Stats', '/Data/')
+                user_input = input("Enter year - format: yyyy-yyyy\n")
+                scraper_controller.get_player_data('https://fbref.com/en/comps/9/' +
+                 user_input +
+                  '/stats/' +
+                  user_input + '-Premier-League-Stats', '/Data/')
             elif user_input == "2":
                 scraper_controller.get_api_data(None, 'Data')
             elif user_input == "3":
-                scraper_controller.get_team_data('https://fbref.com/en/comps/9/Premier-League-Stats', '/Data/')
+                user_input = input("Enter year - format: yyyy-yyyy\n")
+                scraper_controller.get_team_data('https://fbref.com/en/comps/9/' +
+                 user_input +
+                  '/stats/' +
+                  user_input + '-Premier-League-Stats', '/Data/')
             elif user_input == 'q' or user_input == 'Q':
                 exit()
             else:

@@ -1,0 +1,1327 @@
+,Name,Venue,Round,Squad,Opponent,Min,PSxG
+0,Alisson,Away,Matchweek 1,Liverpool,Norwich City,90,0.8
+1,Alisson,Home,Matchweek 2,Liverpool,Burnley,90,0.7
+2,Alisson,Home,Matchweek 3,Liverpool,Chelsea,90,0.4
+3,Alisson,Away,Matchweek 4,Liverpool,Leeds United,90,1.5
+4,Alisson,Home,Matchweek 5,Liverpool,Crystal Palace,90,0.2
+5,Alisson,Away,Matchweek 6,Liverpool,Brentford,90,1.4
+6,Alisson,Home,Matchweek 7,Liverpool,Manchester City,90,1.2
+7,Alisson,Away,Matchweek 9,Liverpool,Manchester Utd,90,0.4
+8,Alisson,Home,Matchweek 10,Liverpool,Brighton,90,1.4
+9,Alisson,Away,Matchweek 11,Liverpool,West Ham,90,1.1
+10,Alisson,Home,Matchweek 12,Liverpool,Arsenal,90,0.8
+11,Alisson,Home,Matchweek 13,Liverpool,Southampton,90,1.4
+12,Alisson,Away,Matchweek 14,Liverpool,Everton,90,0.0
+13,Alisson,Away,Matchweek 15,Liverpool,Wolves,90,0.5
+14,Alisson,Home,Matchweek 17,Liverpool,Newcastle Utd,90,0.6
+15,Alisson,Away,Matchweek 18,Liverpool,Tottenham,90,3.0
+16,Alisson,Away,Matchweek 20,Liverpool,Leicester City,90,0.2
+17,Alisson,Home,Matchweek 22,Liverpool,Brentford,90,0.1
+18,Alisson,Away,Matchweek 23,Liverpool,Crystal Palace,90,3.0
+19,Alisson,Home,Matchweek 24,Liverpool,Leicester City,90,0.0
+20,Alisson,Away,Matchweek 25,Liverpool,Burnley,90,0.7
+21,Alisson,Home,Matchweek 26,Liverpool,Norwich City,90,0.2
+22,Alisson,Home,Matchweek 19,Liverpool,Leeds United,90,0.0
+23,Alisson,Home,Matchweek 28,Liverpool,West Ham,90,0.5
+24,Alisson,Away,Matchweek 29,Liverpool,Brighton,90,0.8
+25,Alisson,Away,Matchweek 27,Liverpool,Arsenal,90,0.4
+26,Alisson,Home,Matchweek 31,Liverpool,Watford,90,0.3
+27,Alisson,Away,Matchweek 32,Liverpool,Manchester City,90,1.8
+28,Alisson,Home,Matchweek 30,Liverpool,Manchester Utd,90,0.0
+29,Alisson,Home,Matchweek 34,Liverpool,Everton,90,0.0
+30,Alisson,Away,Matchweek 35,Liverpool,Newcastle Utd,90,0.2
+31,Alisson,Home,Matchweek 36,Liverpool,Tottenham,90,0.6
+32,Alisson,Away,Matchweek 33,Liverpool,Aston Villa,90,1.1
+33,Alisson,Away,Matchweek 37,Liverpool,Southampton,90,0.5
+34,Alisson,Home,Matchweek 38,Liverpool,Wolves,90,1.3
+35,Alphonse Areola,Away,Matchweek 1,West Ham,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+36,Alphonse Areola,Home,Matchweek 2,West Ham,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+37,Alphonse Areola,Home,Matchweek 3,West Ham,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+38,Alphonse Areola,Away,Matchweek 4,West Ham,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+39,Alphonse Areola,Home,Matchweek 5,West Ham,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+40,Alphonse Areola,Away,Matchweek 6,West Ham,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+41,Alphonse Areola,Home,Matchweek 7,West Ham,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+42,Alphonse Areola,Away,Matchweek 8,West Ham,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+43,Alphonse Areola,Home,Matchweek 9,West Ham,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+44,Alphonse Areola,Away,Matchweek 10,West Ham,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+45,Alphonse Areola,Home,Matchweek 11,West Ham,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+46,Alphonse Areola,Away,Matchweek 12,West Ham,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+47,Alphonse Areola,Away,Matchweek 13,West Ham,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+48,Alphonse Areola,Home,Matchweek 14,West Ham,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+49,Alphonse Areola,Home,Matchweek 15,West Ham,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+50,Alphonse Areola,Away,Matchweek 16,West Ham,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+51,Alphonse Areola,Away,Matchweek 17,West Ham,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+52,Alphonse Areola,Home,Matchweek 19,West Ham,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+53,Alphonse Areola,Away,Matchweek 20,West Ham,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+54,Alphonse Areola,Away,Matchweek 21,West Ham,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+55,Alphonse Areola,Home,Matchweek 18,West Ham,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+56,Alphonse Areola,Home,Matchweek 22,West Ham,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+57,Alphonse Areola,Away,Matchweek 23,West Ham,Manchester Utd,90,1.2
+58,Alphonse Areola,Home,Matchweek 24,West Ham,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+59,Alphonse Areola,Away,Matchweek 25,West Ham,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+60,Alphonse Areola,Home,Matchweek 26,West Ham,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+61,Alphonse Areola,Home,Matchweek 27,West Ham,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+62,Alphonse Areola,Away,Matchweek 28,West Ham,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+63,Alphonse Areola,Home,Matchweek 29,West Ham,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+64,Alphonse Areola,Away,Matchweek 30,West Ham,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+65,Alphonse Areola,Home,Matchweek 31,West Ham,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+66,Alphonse Areola,Away,Matchweek 32,West Ham,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+67,Alphonse Areola,Home,Matchweek 33,West Ham,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+68,Alphonse Areola,Away,Matchweek 34,West Ham,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+69,Alphonse Areola,Home,Matchweek 35,West Ham,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+70,Alphonse Areola,Away,Matchweek 36,West Ham,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+71,Alphonse Areola,Home,Matchweek 37,West Ham,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+72,Alphonse Areola,Away,Matchweek 38,West Ham,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+73,Kepa Arrizabalaga,Home,Matchweek 1,Chelsea,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+74,Kepa Arrizabalaga,Away,Matchweek 2,Chelsea,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+75,Kepa Arrizabalaga,Away,Matchweek 3,Chelsea,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+76,Kepa Arrizabalaga,Home,Matchweek 4,Chelsea,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+77,Kepa Arrizabalaga,Away,Matchweek 5,Chelsea,Tottenham,90,0.3
+78,Kepa Arrizabalaga,Home,Matchweek 6,Chelsea,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+79,Kepa Arrizabalaga,Home,Matchweek 7,Chelsea,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+80,Kepa Arrizabalaga,Away,Matchweek 8,Chelsea,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+81,Kepa Arrizabalaga,Home,Matchweek 9,Chelsea,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+82,Kepa Arrizabalaga,Away,Matchweek 10,Chelsea,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+83,Kepa Arrizabalaga,Home,Matchweek 11,Chelsea,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+84,Kepa Arrizabalaga,Away,Matchweek 12,Chelsea,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+85,Kepa Arrizabalaga,Home,Matchweek 13,Chelsea,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+86,Kepa Arrizabalaga,Away,Matchweek 14,Chelsea,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+87,Kepa Arrizabalaga,Away,Matchweek 15,Chelsea,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+88,Kepa Arrizabalaga,Home,Matchweek 16,Chelsea,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+89,Kepa Arrizabalaga,Home,Matchweek 17,Chelsea,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+90,Kepa Arrizabalaga,Away,Matchweek 18,Chelsea,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+91,Kepa Arrizabalaga,Away,Matchweek 19,Chelsea,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+92,Kepa Arrizabalaga,Home,Matchweek 20,Chelsea,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+93,Kepa Arrizabalaga,Home,Matchweek 21,Chelsea,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+94,Kepa Arrizabalaga,Away,Matchweek 22,Chelsea,Manchester City,90,1.1
+95,Kepa Arrizabalaga,Away,Matchweek 24,Chelsea,Brighton,90,0.9
+96,Kepa Arrizabalaga,Home,Matchweek 23,Chelsea,Tottenham,90,1.0
+97,Kepa Arrizabalaga,Away,Matchweek 26,Chelsea,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+98,Kepa Arrizabalaga,Away,Matchweek 28,Chelsea,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+99,Kepa Arrizabalaga,Away,Matchweek 30,Chelsea,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+100,Kepa Arrizabalaga,Home,Matchweek 29,Chelsea,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+101,Kepa Arrizabalaga,Home,Matchweek 31,Chelsea,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+102,Kepa Arrizabalaga,Away,Matchweek 32,Chelsea,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+103,Kepa Arrizabalaga,Home,Matchweek 25,Chelsea,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+104,Kepa Arrizabalaga,Home,Matchweek 34,Chelsea,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+105,Kepa Arrizabalaga,Away,Matchweek 37,Chelsea,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+106,Kepa Arrizabalaga,Away,Matchweek 35,Chelsea,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+107,Kepa Arrizabalaga,Home,Matchweek 36,Chelsea,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+108,Kepa Arrizabalaga,Away,Matchweek 33,Chelsea,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+109,Kepa Arrizabalaga,Home,Matchweek 27,Chelsea,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+110,Kepa Arrizabalaga,Home,Matchweek 38,Chelsea,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+111,Daniel Bachmann,Home,Matchweek 1,Watford,Aston Villa,90,1.5
+112,Daniel Bachmann,Away,Matchweek 2,Watford,Brighton,90,1.1
+113,Daniel Bachmann,Away,Matchweek 3,Watford,Tottenham,90,1.2
+114,Daniel Bachmann,Home,Matchweek 4,Watford,Wolves,90,1.7
+115,Daniel Bachmann,Away,Matchweek 5,Watford,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+116,Daniel Bachmann,Away,Matchweek 7,Watford,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+117,Daniel Bachmann,Home,Matchweek 8,Watford,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+118,Daniel Bachmann,Away,Matchweek 9,Watford,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+119,Daniel Bachmann,Home,Matchweek 10,Watford,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+120,Daniel Bachmann,Away,Matchweek 11,Watford,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+121,Daniel Bachmann,Home,Matchweek 12,Watford,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+122,Daniel Bachmann,Away,Matchweek 13,Watford,Leicester City,90,2.8
+123,Daniel Bachmann,Home,Matchweek 14,Watford,Chelsea,90,2.1
+124,Daniel Bachmann,Home,Matchweek 15,Watford,Manchester City,90,2.8
+125,Daniel Bachmann,Away,Matchweek 16,Watford,Brentford,90,2.1
+126,Daniel Bachmann,Home,Matchweek 20,Watford,West Ham,90,2.5
+127,Daniel Bachmann,Home,Matchweek 21,Watford,Tottenham,90,1.5
+128,Daniel Bachmann,Away,Matchweek 22,Watford,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+129,Daniel Bachmann,Home,Matchweek 23,Watford,Norwich City,90,1.3
+130,Daniel Bachmann,Away,Matchweek 17,Watford,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+131,Daniel Bachmann,Away,Matchweek 24,Watford,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+132,Daniel Bachmann,Home,Matchweek 25,Watford,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+133,Daniel Bachmann,Away,Matchweek 26,Watford,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+134,Daniel Bachmann,Home,Matchweek 18,Watford,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+135,Daniel Bachmann,Away,Matchweek 27,Watford,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+136,Daniel Bachmann,Home,Matchweek 28,Watford,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+137,Daniel Bachmann,Away,Matchweek 19,Watford,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+138,Daniel Bachmann,Away,Matchweek 29,Watford,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+139,Daniel Bachmann,Away,Matchweek 31,Watford,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+140,Daniel Bachmann,Home,Matchweek 32,Watford,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+141,Daniel Bachmann,Home,Matchweek 33,Watford,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+142,Daniel Bachmann,Away,Matchweek 34,Watford,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+143,Daniel Bachmann,Home,Matchweek 35,Watford,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+144,Daniel Bachmann,Away,Matchweek 36,Watford,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+145,Daniel Bachmann,Home,Matchweek 30,Watford,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+146,Daniel Bachmann,Home,Matchweek 37,Watford,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+147,Daniel Bachmann,Away,Matchweek 38,Watford,Chelsea,90,2.3
+148,Asmir Begović,Home,Matchweek 1,Everton,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+149,Asmir Begović,Away,Matchweek 2,Everton,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+150,Asmir Begović,Away,Matchweek 3,Everton,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+151,Asmir Begović,Home,Matchweek 4,Everton,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+152,Asmir Begović,Away,Matchweek 5,Everton,Aston Villa,90,0.9
+153,Asmir Begović,Home,Matchweek 6,Everton,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+154,Asmir Begović,Away,Matchweek 7,Everton,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+155,Asmir Begović,Home,Matchweek 8,Everton,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+156,Asmir Begović,Home,Matchweek 9,Everton,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+157,Asmir Begović,Away,Matchweek 10,Everton,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+158,Asmir Begović,Home,Matchweek 11,Everton,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+159,Asmir Begović,Away,Matchweek 12,Everton,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+160,Asmir Begović,Away,Matchweek 13,Everton,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+161,Asmir Begović,Home,Matchweek 14,Everton,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+162,Asmir Begović,Home,Matchweek 15,Everton,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+163,Asmir Begović,Away,Matchweek 16,Everton,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+164,Asmir Begović,Away,Matchweek 17,Everton,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+165,Asmir Begović,Home,Matchweek 21,Everton,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+166,Asmir Begović,Away,Matchweek 22,Everton,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+167,Asmir Begović,Home,Matchweek 23,Everton,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+168,Asmir Begović,Away,Matchweek 24,Everton,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+169,Asmir Begović,Home,Matchweek 25,Everton,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+170,Asmir Begović,Away,Matchweek 26,Everton,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+171,Asmir Begović,Home,Matchweek 27,Everton,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+172,Asmir Begović,Away,Matchweek 28,Everton,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+173,Asmir Begović,Home,Matchweek 29,Everton,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+174,Asmir Begović,Home,Matchweek 20,Everton,Newcastle Utd,90,1.4
+175,Asmir Begović,Away,Matchweek 31,Everton,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+176,Asmir Begović,Away,Matchweek 19,Everton,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+177,Asmir Begović,Home,Matchweek 32,Everton,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+178,Asmir Begović,Home,Matchweek 18,Everton,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+179,Asmir Begović,Away,Matchweek 34,Everton,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+180,Asmir Begović,Home,Matchweek 35,Everton,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+181,Asmir Begović,Away,Matchweek 36,Everton,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+182,Asmir Begović,Away,Matchweek 30,Everton,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+183,Asmir Begović,Home,Matchweek 37,Everton,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+184,Asmir Begović,Home,Matchweek 33,Everton,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+185,Asmir Begović,Away,Matchweek 38,Everton,Arsenal,90,3.1
+186,Jack Butland,Away,Matchweek 1,Crystal Palace,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+187,Jack Butland,Home,Matchweek 2,Crystal Palace,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+188,Jack Butland,Away,Matchweek 3,Crystal Palace,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+189,Jack Butland,Home,Matchweek 4,Crystal Palace,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+190,Jack Butland,Away,Matchweek 5,Crystal Palace,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+191,Jack Butland,Home,Matchweek 6,Crystal Palace,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+192,Jack Butland,Home,Matchweek 7,Crystal Palace,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+193,Jack Butland,Away,Matchweek 8,Crystal Palace,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+194,Jack Butland,Home,Matchweek 9,Crystal Palace,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+195,Jack Butland,Away,Matchweek 10,Crystal Palace,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+196,Jack Butland,Home,Matchweek 11,Crystal Palace,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+197,Jack Butland,Away,Matchweek 12,Crystal Palace,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+198,Jack Butland,Home,Matchweek 13,Crystal Palace,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+199,Jack Butland,Away,Matchweek 14,Crystal Palace,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+200,Jack Butland,Away,Matchweek 15,Crystal Palace,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+201,Jack Butland,Home,Matchweek 16,Crystal Palace,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+202,Jack Butland,Home,Matchweek 17,Crystal Palace,Southampton,90,1.0
+203,Jack Butland,Away,Matchweek 19,Crystal Palace,Tottenham,90,2.7
+204,Jack Butland,Home,Matchweek 20,Crystal Palace,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+205,Jack Butland,Home,Matchweek 21,Crystal Palace,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+206,Jack Butland,Away,Matchweek 22,Crystal Palace,Brighton,90,1.9
+207,Jack Butland,Home,Matchweek 23,Crystal Palace,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+208,Jack Butland,Away,Matchweek 24,Crystal Palace,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+209,Jack Butland,Away,Matchweek 25,Crystal Palace,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+210,Jack Butland,Away,Matchweek 18,Crystal Palace,Watford,90,0.9
+211,Jack Butland,Home,Matchweek 27,Crystal Palace,Burnley,90,0.3
+212,Jack Butland,Away,Matchweek 28,Crystal Palace,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+213,Jack Butland,Home,Matchweek 29,Crystal Palace,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+214,Jack Butland,Home,Matchweek 31,Crystal Palace,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+215,Jack Butland,Away,Matchweek 32,Crystal Palace,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+216,Jack Butland,Away,Matchweek 30,Crystal Palace,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+217,Jack Butland,Home,Matchweek 34,Crystal Palace,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+218,Jack Butland,Away,Matchweek 35,Crystal Palace,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+219,Jack Butland,Home,Matchweek 36,Crystal Palace,Watford,90,1.2
+220,Jack Butland,Away,Matchweek 37,Crystal Palace,Aston Villa,90,1.0
+221,Jack Butland,Away,Matchweek 33,Crystal Palace,Everton,90,2.1
+222,Jack Butland,Home,Matchweek 38,Crystal Palace,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+223,Willy Caballero,Away,Matchweek 16,Southampton,Arsenal,90,3.0
+224,Willy Caballero,Away,Matchweek 17,Southampton,Crystal Palace,90,1.2
+225,Willy Caballero,Away,Matchweek 19,Southampton,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+226,Willy Caballero,Home,Matchweek 20,Southampton,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+227,Willy Caballero,Home,Matchweek 18,Southampton,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+228,Willy Caballero,Away,Matchweek 22,Southampton,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+229,Willy Caballero,Home,Matchweek 23,Southampton,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+230,Willy Caballero,Away,Matchweek 24,Southampton,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+231,Willy Caballero,Away,Matchweek 25,Southampton,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+232,Willy Caballero,Home,Matchweek 26,Southampton,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+233,Willy Caballero,Away,Matchweek 28,Southampton,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+234,Willy Caballero,Home,Matchweek 21,Southampton,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+235,Willy Caballero,Home,Matchweek 29,Southampton,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+236,Willy Caballero,Away,Matchweek 31,Southampton,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+237,Willy Caballero,Home,Matchweek 32,Southampton,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+238,Willy Caballero,Home,Matchweek 33,Southampton,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+239,Willy Caballero,Away,Matchweek 30,Southampton,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+240,Willy Caballero,Away,Matchweek 34,Southampton,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+241,Willy Caballero,Home,Matchweek 35,Southampton,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+242,Willy Caballero,Home,Matchweek 37,Southampton,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+243,Willy Caballero,Away,Matchweek 38,Southampton,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+244,Karl Darlow,Away,Matchweek 4,Newcastle Utd,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+245,Karl Darlow,Home,Matchweek 5,Newcastle Utd,Leeds United,90,1.4
+246,Karl Darlow,Away,Matchweek 6,Newcastle Utd,Watford,90,0.5
+247,Karl Darlow,Away,Matchweek 7,Newcastle Utd,Wolves,90,1.4
+248,Karl Darlow,Home,Matchweek 8,Newcastle Utd,Tottenham,90,2.3
+249,Karl Darlow,Away,Matchweek 9,Newcastle Utd,Crystal Palace,90,1.2
+250,Karl Darlow,Home,Matchweek 10,Newcastle Utd,Chelsea,90,2.1
+251,Karl Darlow,Away,Matchweek 11,Newcastle Utd,Brighton,90,1.1
+252,Karl Darlow,Home,Matchweek 12,Newcastle Utd,Brentford,90,0.9
+253,Karl Darlow,Away,Matchweek 13,Newcastle Utd,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+254,Karl Darlow,Home,Matchweek 14,Newcastle Utd,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+255,Karl Darlow,Home,Matchweek 15,Newcastle Utd,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+256,Karl Darlow,Away,Matchweek 16,Newcastle Utd,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+257,Karl Darlow,Away,Matchweek 17,Newcastle Utd,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+258,Karl Darlow,Home,Matchweek 18,Newcastle Utd,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+259,Karl Darlow,Home,Matchweek 22,Newcastle Utd,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+260,Karl Darlow,Away,Matchweek 23,Newcastle Utd,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+261,Karl Darlow,Home,Matchweek 24,Newcastle Utd,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+262,Karl Darlow,Home,Matchweek 25,Newcastle Utd,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+263,Karl Darlow,Away,Matchweek 26,Newcastle Utd,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+264,Karl Darlow,Away,Matchweek 27,Newcastle Utd,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+265,Karl Darlow,Home,Matchweek 28,Newcastle Utd,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+266,Karl Darlow,Away,Matchweek 21,Newcastle Utd,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+267,Karl Darlow,Away,Matchweek 29,Newcastle Utd,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+268,Karl Darlow,Away,Matchweek 20,Newcastle Utd,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+269,Karl Darlow,Away,Matchweek 31,Newcastle Utd,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+270,Karl Darlow,Home,Matchweek 32,Newcastle Utd,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+271,Karl Darlow,Home,Matchweek 33,Newcastle Utd,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+272,Karl Darlow,Home,Matchweek 30,Newcastle Utd,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+273,Karl Darlow,Away,Matchweek 34,Newcastle Utd,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+274,Karl Darlow,Home,Matchweek 35,Newcastle Utd,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+275,Karl Darlow,Away,Matchweek 36,Newcastle Utd,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+276,Karl Darlow,Home,Matchweek 37,Newcastle Utd,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+277,Karl Darlow,Away,Matchweek 38,Newcastle Utd,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+278,Martin Dúbravka,Home,Matchweek 10,Newcastle Utd,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+279,Martin Dúbravka,Away,Matchweek 11,Newcastle Utd,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+280,Martin Dúbravka,Home,Matchweek 12,Newcastle Utd,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+281,Martin Dúbravka,Away,Matchweek 13,Newcastle Utd,Arsenal,90,2.5
+282,Martin Dúbravka,Home,Matchweek 14,Newcastle Utd,Norwich City,90,1.9
+283,Martin Dúbravka,Home,Matchweek 15,Newcastle Utd,Burnley,90,0.1
+284,Martin Dúbravka,Away,Matchweek 16,Newcastle Utd,Leicester City,90,3.8
+285,Martin Dúbravka,Away,Matchweek 17,Newcastle Utd,Liverpool,90,2.7
+286,Martin Dúbravka,Home,Matchweek 18,Newcastle Utd,Manchester City,90,3.5
+287,Martin Dúbravka,Home,Matchweek 19,Newcastle Utd,Manchester Utd,90,1.1
+288,Martin Dúbravka,Home,Matchweek 22,Newcastle Utd,Watford,90,1.0
+289,Martin Dúbravka,Away,Matchweek 23,Newcastle Utd,Leeds United,90,1.2
+290,Martin Dúbravka,Home,Matchweek 24,Newcastle Utd,Everton,90,0.1
+291,Martin Dúbravka,Home,Matchweek 25,Newcastle Utd,Aston Villa,90,0.0
+292,Martin Dúbravka,Away,Matchweek 26,Newcastle Utd,West Ham,90,1.2
+293,Martin Dúbravka,Away,Matchweek 27,Newcastle Utd,Brentford,90,0.2
+294,Martin Dúbravka,Home,Matchweek 28,Newcastle Utd,Brighton,90,1.6
+295,Martin Dúbravka,Away,Matchweek 21,Newcastle Utd,Southampton,90,2.6
+296,Martin Dúbravka,Away,Matchweek 29,Newcastle Utd,Chelsea,90,1.0
+297,Martin Dúbravka,Away,Matchweek 20,Newcastle Utd,Everton,90,0.8
+298,Martin Dúbravka,Away,Matchweek 31,Newcastle Utd,Tottenham,90,4.3
+299,Martin Dúbravka,Home,Matchweek 32,Newcastle Utd,Wolves,90,0.0
+300,Martin Dúbravka,Home,Matchweek 33,Newcastle Utd,Leicester City,90,0.6
+301,Martin Dúbravka,Home,Matchweek 30,Newcastle Utd,Crystal Palace,90,0.2
+302,Martin Dúbravka,Away,Matchweek 34,Newcastle Utd,Norwich City,90,1.0
+303,Martin Dúbravka,Home,Matchweek 35,Newcastle Utd,Liverpool,90,2.4
+304,Martin Dúbravka,Away,Matchweek 36,Newcastle Utd,Manchester City,90,3.4
+305,Martin Dúbravka,Home,Matchweek 37,Newcastle Utd,Arsenal,90,0.3
+306,Martin Dúbravka,Away,Matchweek 38,Newcastle Utd,Burnley,90,0.6
+307,Ederson,Away,Matchweek 1,Manchester City,Tottenham,90,0.6
+308,Ederson,Away,Matchweek 4,Manchester City,Leicester City,90,0.3
+309,Ederson,Home,Matchweek 5,Manchester City,Southampton,90,0.1
+310,Ederson,Away,Matchweek 7,Manchester City,Liverpool,90,1.3
+311,Ederson,Away,Matchweek 9,Manchester City,Brighton,90,1.1
+312,Ederson,Home,Matchweek 10,Manchester City,Crystal Palace,90,1.3
+313,Ederson,Home,Matchweek 13,Manchester City,West Ham,90,0.3
+314,Ederson,Away,Matchweek 14,Manchester City,Aston Villa,90,0.6
+315,Ederson,Away,Matchweek 15,Manchester City,Watford,90,1.2
+316,Ederson,Home,Matchweek 16,Manchester City,Wolves,90,0.3
+317,Ederson,Home,Matchweek 17,Manchester City,Leeds United,90,0.0
+318,Ederson,Away,Matchweek 18,Manchester City,Newcastle Utd,90,0.3
+319,Ederson,Home,Matchweek 19,Manchester City,Leicester City,90,3.1
+320,Ederson,Away,Matchweek 20,Manchester City,Brentford,90,0.5
+321,Ederson,Away,Matchweek 21,Manchester City,Arsenal,90,0.9
+322,Ederson,Home,Matchweek 22,Manchester City,Chelsea,90,0.2
+323,Ederson,Away,Matchweek 25,Manchester City,Norwich City,90,0.3
+324,Ederson,Home,Matchweek 26,Manchester City,Tottenham,90,2.3
+325,Ederson,Away,Matchweek 27,Manchester City,Everton,90,0.4
+326,Ederson,Home,Matchweek 28,Manchester City,Manchester Utd,90,1.0
+327,Ederson,Away,Matchweek 29,Manchester City,Crystal Palace,90,0.0
+328,Ederson,Away,Matchweek 31,Manchester City,Burnley,90,0.1
+329,Ederson,Home,Matchweek 32,Manchester City,Liverpool,90,2.2
+330,Ederson,Home,Matchweek 30,Manchester City,Brighton,90,0.2
+331,Ederson,Home,Matchweek 34,Manchester City,Watford,90,0.8
+332,Ederson,Away,Matchweek 35,Manchester City,Leeds United,90,0.3
+333,Ederson,Home,Matchweek 36,Manchester City,Newcastle Utd,90,0.8
+334,Ederson,Away,Matchweek 33,Manchester City,Wolves,90,0.7
+335,Ederson,Away,Matchweek 37,Manchester City,West Ham,90,1.6
+336,Ederson,Home,Matchweek 38,Manchester City,Aston Villa,90,0.7
+337,Łukasz Fabiański,Away,Matchweek 1,West Ham,Newcastle Utd,90,1.5
+338,Łukasz Fabiański,Home,Matchweek 2,West Ham,Leicester City,90,0.4
+339,Łukasz Fabiański,Home,Matchweek 3,West Ham,Crystal Palace,90,1.1
+340,Łukasz Fabiański,Away,Matchweek 4,West Ham,Southampton,90,0.4
+341,Łukasz Fabiański,Home,Matchweek 5,West Ham,Manchester Utd,90,2.7
+342,Łukasz Fabiański,Away,Matchweek 6,West Ham,Leeds United,90,1.4
+343,Łukasz Fabiański,Home,Matchweek 7,West Ham,Brentford,90,1.4
+344,Łukasz Fabiański,Away,Matchweek 8,West Ham,Everton,90,0.1
+345,Łukasz Fabiański,Home,Matchweek 9,West Ham,Tottenham,90,0.2
+346,Łukasz Fabiański,Away,Matchweek 10,West Ham,Aston Villa,90,0.9
+347,Łukasz Fabiański,Home,Matchweek 11,West Ham,Liverpool,90,1.6
+348,Łukasz Fabiański,Away,Matchweek 12,West Ham,Wolves,90,1.4
+349,Łukasz Fabiański,Away,Matchweek 13,West Ham,Manchester City,90,3.6
+350,Łukasz Fabiański,Home,Matchweek 14,West Ham,Brighton,90,0.9
+351,Łukasz Fabiański,Home,Matchweek 15,West Ham,Chelsea,90,1.4
+352,Łukasz Fabiański,Away,Matchweek 16,West Ham,Burnley,90,0.0
+353,Łukasz Fabiański,Away,Matchweek 17,West Ham,Arsenal,90,3.5
+354,Łukasz Fabiański,Home,Matchweek 19,West Ham,Southampton,90,2.1
+355,Łukasz Fabiański,Away,Matchweek 20,West Ham,Watford,90,2.2
+356,Łukasz Fabiański,Away,Matchweek 21,West Ham,Crystal Palace,90,1.6
+357,Łukasz Fabiański,Home,Matchweek 18,West Ham,Norwich City,90,0.5
+358,Łukasz Fabiański,Home,Matchweek 22,West Ham,Leeds United,90,2.4
+359,Łukasz Fabiański,Home,Matchweek 24,West Ham,Watford,90,0.5
+360,Łukasz Fabiański,Away,Matchweek 25,West Ham,Leicester City,90,1.5
+361,Łukasz Fabiański,Home,Matchweek 26,West Ham,Newcastle Utd,90,0.7
+362,Łukasz Fabiański,Home,Matchweek 27,West Ham,Wolves,90,0.0
+363,Łukasz Fabiański,Away,Matchweek 28,West Ham,Liverpool,90,1.6
+364,Łukasz Fabiański,Home,Matchweek 29,West Ham,Aston Villa,90,2.6
+365,Łukasz Fabiański,Away,Matchweek 30,West Ham,Tottenham,90,1.6
+366,Łukasz Fabiański,Home,Matchweek 31,West Ham,Everton,90,0.7
+367,Łukasz Fabiański,Away,Matchweek 32,West Ham,Brentford,90,1.3
+368,Łukasz Fabiański,Home,Matchweek 33,West Ham,Burnley,90,0.9
+369,Łukasz Fabiański,Away,Matchweek 34,West Ham,Chelsea,90,2.5
+370,Łukasz Fabiański,Home,Matchweek 35,West Ham,Arsenal,90,2.3
+371,Łukasz Fabiański,Away,Matchweek 36,West Ham,Norwich City,90,0.3
+372,Łukasz Fabiański,Home,Matchweek 37,West Ham,Manchester City,90,2.7
+373,Łukasz Fabiański,Away,Matchweek 38,West Ham,Brighton,90,2.1
+374,Álvaro Fernández,Away,Matchweek 2,Brentford,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+375,Álvaro Fernández,Away,Matchweek 3,Brentford,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+376,Álvaro Fernández,Home,Matchweek 4,Brentford,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+377,Álvaro Fernández,Away,Matchweek 5,Brentford,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+378,Álvaro Fernández,Home,Matchweek 6,Brentford,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+379,Álvaro Fernández,Away,Matchweek 7,Brentford,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+380,Álvaro Fernández,Home,Matchweek 8,Brentford,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+381,Álvaro Fernández,Home,Matchweek 9,Brentford,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+382,Álvaro Fernández,Away,Matchweek 10,Brentford,Burnley,90,3.4
+383,Álvaro Fernández,Home,Matchweek 11,Brentford,Norwich City,90,1.6
+384,Álvaro Fernández,Away,Matchweek 12,Brentford,Newcastle Utd,90,2.3
+385,Álvaro Fernández,Home,Matchweek 13,Brentford,Everton,90,1.0
+386,Álvaro Fernández,Away,Matchweek 14,Brentford,Tottenham,90,2.1
+387,Álvaro Fernández,Away,Matchweek 15,Brentford,Leeds United,90,2.6
+388,Álvaro Fernández,Home,Matchweek 16,Brentford,Watford,90,0.8
+389,Álvaro Fernández,Away,Matchweek 19,Brentford,Brighton,90,1.6
+390,Álvaro Fernández,Home,Matchweek 20,Brentford,Manchester City,90,0.9
+391,Álvaro Fernández,Home,Matchweek 21,Brentford,Aston Villa,90,1.7
+392,Álvaro Fernández,Away,Matchweek 18,Brentford,Southampton,90,3.5
+393,Álvaro Fernández,Away,Matchweek 22,Brentford,Liverpool,90,3.9
+394,Álvaro Fernández,Home,Matchweek 17,Brentford,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+395,Álvaro Fernández,Home,Matchweek 23,Brentford,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+396,Álvaro Fernández,Away,Matchweek 24,Brentford,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+397,Álvaro Fernández,Home,Matchweek 25,Brentford,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+398,Álvaro Fernández,Away,Matchweek 26,Brentford,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+399,Álvaro Fernández,Away,Matchweek 30,Brentford,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+400,Álvaro Fernández,Away,Matchweek 31,Brentford,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+401,Álvaro Fernández,Home,Matchweek 32,Brentford,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+402,Álvaro Fernández,Away,Matchweek 33,Brentford,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+403,Álvaro Fernández,Away,Matchweek 35,Brentford,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+404,Álvaro Fernández,Home,Matchweek 38,Brentford,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+405,Fraser Forster,Away,Matchweek 1,Southampton,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+406,Fraser Forster,Home,Matchweek 2,Southampton,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+407,Fraser Forster,Away,Matchweek 3,Southampton,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+408,Fraser Forster,Home,Matchweek 4,Southampton,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+409,Fraser Forster,Away,Matchweek 5,Southampton,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+410,Fraser Forster,Home,Matchweek 6,Southampton,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+411,Fraser Forster,Away,Matchweek 7,Southampton,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+412,Fraser Forster,Home,Matchweek 8,Southampton,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+413,Fraser Forster,Home,Matchweek 9,Southampton,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+414,Fraser Forster,Away,Matchweek 10,Southampton,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+415,Fraser Forster,Home,Matchweek 11,Southampton,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+416,Fraser Forster,Away,Matchweek 12,Southampton,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+417,Fraser Forster,Away,Matchweek 13,Southampton,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+418,Fraser Forster,Home,Matchweek 14,Southampton,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+419,Fraser Forster,Away,Matchweek 19,Southampton,West Ham,90,1.6
+420,Fraser Forster,Home,Matchweek 20,Southampton,Tottenham,90,2.7
+421,Fraser Forster,Home,Matchweek 18,Southampton,Brentford,90,1.4
+422,Fraser Forster,Away,Matchweek 22,Southampton,Wolves,90,2.5
+423,Fraser Forster,Home,Matchweek 23,Southampton,Manchester City,90,1.4
+424,Fraser Forster,Away,Matchweek 24,Southampton,Tottenham,90,1.4
+425,Fraser Forster,Away,Matchweek 25,Southampton,Manchester Utd,90,1.6
+426,Fraser Forster,Home,Matchweek 27,Southampton,Norwich City,90,0.0
+427,Fraser Forster,Away,Matchweek 28,Southampton,Aston Villa,90,3.8
+428,Fraser Forster,Home,Matchweek 21,Southampton,Newcastle Utd,90,1.1
+429,Fraser Forster,Home,Matchweek 29,Southampton,Watford,90,1.7
+430,Fraser Forster,Away,Matchweek 31,Southampton,Leeds United,90,1.0
+431,Fraser Forster,Home,Matchweek 32,Southampton,Chelsea,90,5.0
+432,Fraser Forster,Home,Matchweek 33,Southampton,Arsenal,90,0.9
+433,Fraser Forster,Away,Matchweek 30,Southampton,Burnley,90,1.9
+434,Fraser Forster,Away,Matchweek 34,Southampton,Brighton,90,1.7
+435,Fraser Forster,Home,Matchweek 35,Southampton,Crystal Palace,90,0.3
+436,Fraser Forster,Away,Matchweek 36,Southampton,Brentford,90,1.8
+437,Ben Foster,Home,Matchweek 1,Watford,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+438,Ben Foster,Away,Matchweek 2,Watford,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+439,Ben Foster,Away,Matchweek 5,Watford,Norwich City,90,0.9
+440,Ben Foster,Home,Matchweek 6,Watford,Newcastle Utd,90,1.2
+441,Ben Foster,Away,Matchweek 7,Watford,Leeds United,90,0.9
+442,Ben Foster,Home,Matchweek 8,Watford,Liverpool,90,5.0
+443,Ben Foster,Away,Matchweek 9,Watford,Everton,90,1.6
+444,Ben Foster,Home,Matchweek 10,Watford,Southampton,90,0.6
+445,Ben Foster,Away,Matchweek 11,Watford,Arsenal,90,1.7
+446,Ben Foster,Home,Matchweek 12,Watford,Manchester Utd,90,1.3
+447,Ben Foster,Away,Matchweek 22,Watford,Newcastle Utd,90,0.4
+448,Ben Foster,Away,Matchweek 17,Watford,Burnley,90,0.5
+449,Ben Foster,Away,Matchweek 24,Watford,West Ham,90,0.4
+450,Ben Foster,Home,Matchweek 25,Watford,Brighton,90,2.1
+451,Ben Foster,Away,Matchweek 26,Watford,Aston Villa,90,0.4
+452,Ben Foster,Home,Matchweek 18,Watford,Crystal Palace,90,1.8
+453,Ben Foster,Away,Matchweek 27,Watford,Manchester Utd,90,0.2
+454,Ben Foster,Home,Matchweek 28,Watford,Arsenal,90,1.8
+455,Ben Foster,Away,Matchweek 19,Watford,Wolves,90,2.4
+456,Ben Foster,Away,Matchweek 29,Watford,Southampton,90,1.3
+457,Ben Foster,Away,Matchweek 31,Watford,Liverpool,90,2.1
+458,Ben Foster,Home,Matchweek 32,Watford,Leeds United,90,2.5
+459,Ben Foster,Home,Matchweek 33,Watford,Brentford,90,2.2
+460,Ben Foster,Away,Matchweek 34,Watford,Manchester City,90,3.8
+461,Ben Foster,Home,Matchweek 35,Watford,Burnley,90,2.3
+462,Ben Foster,Away,Matchweek 36,Watford,Crystal Palace,90,1.9
+463,Ben Foster,Home,Matchweek 30,Watford,Everton,90,0.9
+464,Ben Foster,Home,Matchweek 37,Watford,Leicester City,90,3.0
+465,David de Gea,Home,Matchweek 1,Manchester Utd,Leeds United,90,0.6
+466,David de Gea,Away,Matchweek 2,Manchester Utd,Southampton,90,0.2
+467,David de Gea,Away,Matchweek 3,Manchester Utd,Wolves,90,1.1
+468,David de Gea,Home,Matchweek 4,Manchester Utd,Newcastle Utd,90,1.5
+469,David de Gea,Away,Matchweek 5,Manchester Utd,West Ham,90,1.4
+470,David de Gea,Home,Matchweek 6,Manchester Utd,Aston Villa,90,0.6
+471,David de Gea,Home,Matchweek 7,Manchester Utd,Everton,90,0.8
+472,David de Gea,Away,Matchweek 8,Manchester Utd,Leicester City,90,4.5
+473,David de Gea,Home,Matchweek 9,Manchester Utd,Liverpool,90,4.5
+474,David de Gea,Home,Matchweek 11,Manchester Utd,Manchester City,90,2.2
+475,David de Gea,Away,Matchweek 12,Manchester Utd,Watford,90,3.5
+476,David de Gea,Away,Matchweek 13,Manchester Utd,Chelsea,90,2.4
+477,David de Gea,Home,Matchweek 14,Manchester Utd,Arsenal,90,2.8
+478,David de Gea,Home,Matchweek 15,Manchester Utd,Crystal Palace,90,0.8
+479,David de Gea,Away,Matchweek 16,Manchester Utd,Norwich City,90,2.0
+480,David de Gea,Home,Matchweek 20,Manchester Utd,Burnley,90,0.9
+481,David de Gea,Home,Matchweek 21,Manchester Utd,Wolves,90,1.2
+482,David de Gea,Away,Matchweek 22,Manchester Utd,Aston Villa,90,2.9
+483,David de Gea,Away,Matchweek 17,Manchester Utd,Brentford,90,3.0
+484,David de Gea,Home,Matchweek 23,Manchester Utd,West Ham,90,0.0
+485,David de Gea,Away,Matchweek 24,Manchester Utd,Burnley,90,0.8
+486,David de Gea,Home,Matchweek 25,Manchester Utd,Southampton,90,0.6
+487,David de Gea,Home,Matchweek 18,Manchester Utd,Brighton,90,0.5
+488,David de Gea,Away,Matchweek 26,Manchester Utd,Leeds United,90,1.5
+489,David de Gea,Away,Matchweek 28,Manchester Utd,Manchester City,90,3.3
+490,David de Gea,Home,Matchweek 29,Manchester Utd,Tottenham,90,0.9
+491,David de Gea,Home,Matchweek 31,Manchester Utd,Leicester City,90,1.0
+492,David de Gea,Away,Matchweek 32,Manchester Utd,Everton,90,0.8
+493,David de Gea,Home,Matchweek 33,Manchester Utd,Norwich City,90,1.4
+494,David de Gea,Away,Matchweek 30,Manchester Utd,Liverpool,90,2.8
+495,David de Gea,Away,Matchweek 34,Manchester Utd,Arsenal,90,2.5
+496,David de Gea,Home,Matchweek 37,Manchester Utd,Chelsea,90,1.6
+497,David de Gea,Home,Matchweek 35,Manchester Utd,Brentford,90,0.1
+498,David de Gea,Away,Matchweek 36,Manchester Utd,Brighton,90,2.7
+499,David de Gea,Away,Matchweek 38,Manchester Utd,Crystal Palace,90,0.8
+500,Vicente Guaita,Away,Matchweek 1,Crystal Palace,Chelsea,90,1.8
+501,Vicente Guaita,Home,Matchweek 2,Crystal Palace,Brentford,90,0.8
+502,Vicente Guaita,Away,Matchweek 3,Crystal Palace,West Ham,90,0.9
+503,Vicente Guaita,Home,Matchweek 4,Crystal Palace,Tottenham,90,0.0
+504,Vicente Guaita,Away,Matchweek 5,Crystal Palace,Liverpool,90,2.4
+505,Vicente Guaita,Home,Matchweek 6,Crystal Palace,Brighton,90,1.6
+506,Vicente Guaita,Home,Matchweek 7,Crystal Palace,Leicester City,90,1.0
+507,Vicente Guaita,Away,Matchweek 8,Crystal Palace,Arsenal,90,2.1
+508,Vicente Guaita,Home,Matchweek 9,Crystal Palace,Newcastle Utd,90,0.4
+509,Vicente Guaita,Away,Matchweek 10,Crystal Palace,Manchester City,90,0.3
+510,Vicente Guaita,Home,Matchweek 11,Crystal Palace,Wolves,90,0.1
+511,Vicente Guaita,Away,Matchweek 12,Crystal Palace,Burnley,90,2.4
+512,Vicente Guaita,Home,Matchweek 13,Crystal Palace,Aston Villa,90,0.7
+513,Vicente Guaita,Away,Matchweek 14,Crystal Palace,Leeds United,90,0.9
+514,Vicente Guaita,Away,Matchweek 15,Crystal Palace,Manchester Utd,90,1.1
+515,Vicente Guaita,Home,Matchweek 16,Crystal Palace,Everton,90,1.2
+516,Vicente Guaita,Home,Matchweek 17,Crystal Palace,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+517,Vicente Guaita,Home,Matchweek 20,Crystal Palace,Norwich City,90,0.3
+518,Vicente Guaita,Home,Matchweek 21,Crystal Palace,West Ham,90,2.5
+519,Vicente Guaita,Away,Matchweek 22,Crystal Palace,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+520,Vicente Guaita,Home,Matchweek 23,Crystal Palace,Liverpool,90,2.8
+521,Vicente Guaita,Away,Matchweek 24,Crystal Palace,Norwich City,90,0.7
+522,Vicente Guaita,Away,Matchweek 25,Crystal Palace,Brentford,90,0.8
+523,Vicente Guaita,Home,Matchweek 26,Crystal Palace,Chelsea,45,0.1
+524,Vicente Guaita,Home,Matchweek 27,Crystal Palace,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+525,Vicente Guaita,Away,Matchweek 28,Crystal Palace,Wolves,90,0.4
+526,Vicente Guaita,Home,Matchweek 29,Crystal Palace,Manchester City,90,0.8
+527,Vicente Guaita,Home,Matchweek 31,Crystal Palace,Arsenal,90,0.4
+528,Vicente Guaita,Away,Matchweek 32,Crystal Palace,Leicester City,90,0.6
+529,Vicente Guaita,Away,Matchweek 30,Crystal Palace,Newcastle Utd,90,0.7
+530,Vicente Guaita,Home,Matchweek 34,Crystal Palace,Leeds United,90,0.2
+531,Vicente Guaita,Away,Matchweek 35,Crystal Palace,Southampton,90,0.4
+532,Vicente Guaita,Away,Matchweek 37,Crystal Palace,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+533,Vicente Guaita,Away,Matchweek 33,Crystal Palace,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+534,Vicente Guaita,Home,Matchweek 38,Crystal Palace,Manchester Utd,90,1.0
+535,Angus Gunn,Home,Matchweek 1,Norwich City,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+536,Angus Gunn,Away,Matchweek 2,Norwich City,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+537,Angus Gunn,Home,Matchweek 3,Norwich City,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+538,Angus Gunn,Away,Matchweek 4,Norwich City,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+539,Angus Gunn,Home,Matchweek 5,Norwich City,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+540,Angus Gunn,Away,Matchweek 6,Norwich City,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+541,Angus Gunn,Away,Matchweek 7,Norwich City,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+542,Angus Gunn,Home,Matchweek 8,Norwich City,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+543,Angus Gunn,Away,Matchweek 9,Norwich City,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+544,Angus Gunn,Home,Matchweek 10,Norwich City,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+545,Angus Gunn,Away,Matchweek 11,Norwich City,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+546,Angus Gunn,Home,Matchweek 12,Norwich City,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+547,Angus Gunn,Home,Matchweek 13,Norwich City,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+548,Angus Gunn,Away,Matchweek 14,Norwich City,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+549,Angus Gunn,Away,Matchweek 15,Norwich City,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+550,Angus Gunn,Home,Matchweek 16,Norwich City,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+551,Angus Gunn,Home,Matchweek 17,Norwich City,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+552,Angus Gunn,Home,Matchweek 19,Norwich City,Arsenal,90,3.5
+553,Angus Gunn,Away,Matchweek 20,Norwich City,Crystal Palace,90,2.7
+554,Angus Gunn,Away,Matchweek 18,Norwich City,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+555,Angus Gunn,Home,Matchweek 22,Norwich City,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+556,Angus Gunn,Away,Matchweek 23,Norwich City,Watford,90,0.1
+557,Angus Gunn,Home,Matchweek 24,Norwich City,Crystal Palace,90,1.6
+558,Angus Gunn,Home,Matchweek 25,Norwich City,Manchester City,90,4.4
+559,Angus Gunn,Away,Matchweek 26,Norwich City,Liverpool,90,2.7
+560,Angus Gunn,Away,Matchweek 27,Norwich City,Southampton,90,3.4
+561,Angus Gunn,Home,Matchweek 28,Norwich City,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+562,Angus Gunn,Home,Matchweek 30,Norwich City,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+563,Angus Gunn,Away,Matchweek 29,Norwich City,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+564,Angus Gunn,Away,Matchweek 31,Norwich City,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+565,Angus Gunn,Home,Matchweek 32,Norwich City,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+566,Angus Gunn,Away,Matchweek 33,Norwich City,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+567,Angus Gunn,Home,Matchweek 34,Norwich City,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+568,Angus Gunn,Away,Matchweek 35,Norwich City,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+569,Angus Gunn,Home,Matchweek 36,Norwich City,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+570,Angus Gunn,Away,Matchweek 21,Norwich City,Leicester City,90,3.0
+571,Angus Gunn,Away,Matchweek 37,Norwich City,Wolves,90,1.1
+572,Angus Gunn,Home,Matchweek 38,Norwich City,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+573,Wayne Hennessey,Home,Matchweek 1,Burnley,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+574,Wayne Hennessey,Away,Matchweek 2,Burnley,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+575,Wayne Hennessey,Home,Matchweek 3,Burnley,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+576,Wayne Hennessey,Away,Matchweek 4,Burnley,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+577,Wayne Hennessey,Home,Matchweek 5,Burnley,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+578,Wayne Hennessey,Away,Matchweek 6,Burnley,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+579,Wayne Hennessey,Home,Matchweek 7,Burnley,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+580,Wayne Hennessey,Away,Matchweek 8,Burnley,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+581,Wayne Hennessey,Away,Matchweek 9,Burnley,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+582,Wayne Hennessey,Home,Matchweek 10,Burnley,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+583,Wayne Hennessey,Away,Matchweek 11,Burnley,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+584,Wayne Hennessey,Home,Matchweek 12,Burnley,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+585,Wayne Hennessey,Away,Matchweek 14,Burnley,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+586,Wayne Hennessey,Away,Matchweek 15,Burnley,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+587,Wayne Hennessey,Home,Matchweek 16,Burnley,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+588,Wayne Hennessey,Away,Matchweek 20,Burnley,Manchester Utd,90,2.0
+589,Wayne Hennessey,Away,Matchweek 21,Burnley,Leeds United,90,2.2
+590,Wayne Hennessey,Away,Matchweek 23,Burnley,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+591,Wayne Hennessey,Home,Matchweek 17,Burnley,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+592,Wayne Hennessey,Home,Matchweek 24,Burnley,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+593,Wayne Hennessey,Home,Matchweek 25,Burnley,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+594,Wayne Hennessey,Away,Matchweek 26,Burnley,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+595,Wayne Hennessey,Home,Matchweek 13,Burnley,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+596,Wayne Hennessey,Away,Matchweek 27,Burnley,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+597,Wayne Hennessey,Home,Matchweek 22,Burnley,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+598,Wayne Hennessey,Home,Matchweek 28,Burnley,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+599,Wayne Hennessey,Away,Matchweek 29,Burnley,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+600,Wayne Hennessey,Home,Matchweek 31,Burnley,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+601,Wayne Hennessey,Home,Matchweek 19,Burnley,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+602,Wayne Hennessey,Away,Matchweek 32,Burnley,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+603,Wayne Hennessey,Away,Matchweek 33,Burnley,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+604,Wayne Hennessey,Home,Matchweek 30,Burnley,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+605,Wayne Hennessey,Home,Matchweek 34,Burnley,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+606,Wayne Hennessey,Away,Matchweek 35,Burnley,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+607,Wayne Hennessey,Home,Matchweek 36,Burnley,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+608,Wayne Hennessey,Away,Matchweek 37,Burnley,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+609,Wayne Hennessey,Away,Matchweek 18,Burnley,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+610,Wayne Hennessey,Home,Matchweek 38,Burnley,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+611,Caoimhín Kelleher,Away,Matchweek 1,Liverpool,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+612,Caoimhín Kelleher,Home,Matchweek 2,Liverpool,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+613,Caoimhín Kelleher,Home,Matchweek 3,Liverpool,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+614,Caoimhín Kelleher,Away,Matchweek 4,Liverpool,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+615,Caoimhín Kelleher,Home,Matchweek 5,Liverpool,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+616,Caoimhín Kelleher,Away,Matchweek 6,Liverpool,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+617,Caoimhín Kelleher,Home,Matchweek 7,Liverpool,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+618,Caoimhín Kelleher,Away,Matchweek 8,Liverpool,Watford,90,0.3
+619,Caoimhín Kelleher,Away,Matchweek 11,Liverpool,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+620,Caoimhín Kelleher,Home,Matchweek 12,Liverpool,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+621,Caoimhín Kelleher,Home,Matchweek 13,Liverpool,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+622,Caoimhín Kelleher,Away,Matchweek 14,Liverpool,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+623,Caoimhín Kelleher,Away,Matchweek 15,Liverpool,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+624,Caoimhín Kelleher,Home,Matchweek 16,Liverpool,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+625,Caoimhín Kelleher,Home,Matchweek 17,Liverpool,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+626,Caoimhín Kelleher,Away,Matchweek 18,Liverpool,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+627,Caoimhín Kelleher,Away,Matchweek 20,Liverpool,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+628,Caoimhín Kelleher,Away,Matchweek 21,Liverpool,Chelsea,90,2.2
+629,Caoimhín Kelleher,Home,Matchweek 22,Liverpool,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+630,Caoimhín Kelleher,Away,Matchweek 23,Liverpool,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+631,Caoimhín Kelleher,Home,Matchweek 24,Liverpool,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+632,Caoimhín Kelleher,Away,Matchweek 25,Liverpool,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+633,Caoimhín Kelleher,Home,Matchweek 26,Liverpool,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+634,Caoimhín Kelleher,Home,Matchweek 19,Liverpool,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+635,Caoimhín Kelleher,Home,Matchweek 28,Liverpool,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+636,Caoimhín Kelleher,Away,Matchweek 29,Liverpool,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+637,Caoimhín Kelleher,Away,Matchweek 27,Liverpool,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+638,Caoimhín Kelleher,Home,Matchweek 31,Liverpool,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+639,Caoimhín Kelleher,Away,Matchweek 32,Liverpool,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+640,Caoimhín Kelleher,Home,Matchweek 30,Liverpool,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+641,Caoimhín Kelleher,Home,Matchweek 34,Liverpool,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+642,Caoimhín Kelleher,Away,Matchweek 35,Liverpool,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+643,Caoimhín Kelleher,Home,Matchweek 36,Liverpool,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+644,Caoimhín Kelleher,Away,Matchweek 33,Liverpool,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+645,Caoimhín Kelleher,Away,Matchweek 37,Liverpool,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+646,Caoimhín Kelleher,Home,Matchweek 38,Liverpool,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+647,Kristoffer Klaesson,Away,Matchweek 1,Leeds United,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+648,Kristoffer Klaesson,Home,Matchweek 2,Leeds United,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+649,Kristoffer Klaesson,Away,Matchweek 3,Leeds United,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+650,Kristoffer Klaesson,Home,Matchweek 4,Leeds United,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+651,Kristoffer Klaesson,Away,Matchweek 5,Leeds United,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+652,Kristoffer Klaesson,Home,Matchweek 6,Leeds United,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+653,Kristoffer Klaesson,Home,Matchweek 7,Leeds United,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+654,Kristoffer Klaesson,Away,Matchweek 8,Leeds United,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+655,Kristoffer Klaesson,Home,Matchweek 9,Leeds United,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+656,Kristoffer Klaesson,Away,Matchweek 10,Leeds United,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+657,Kristoffer Klaesson,Home,Matchweek 11,Leeds United,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+658,Kristoffer Klaesson,Away,Matchweek 12,Leeds United,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+659,Kristoffer Klaesson,Away,Matchweek 13,Leeds United,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+660,Kristoffer Klaesson,Home,Matchweek 14,Leeds United,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+661,Kristoffer Klaesson,Home,Matchweek 15,Leeds United,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+662,Kristoffer Klaesson,Away,Matchweek 16,Leeds United,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+663,Kristoffer Klaesson,Away,Matchweek 17,Leeds United,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+664,Kristoffer Klaesson,Home,Matchweek 18,Leeds United,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+665,Kristoffer Klaesson,Home,Matchweek 21,Leeds United,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+666,Kristoffer Klaesson,Away,Matchweek 22,Leeds United,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+667,Kristoffer Klaesson,Home,Matchweek 23,Leeds United,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+668,Kristoffer Klaesson,Away,Matchweek 24,Leeds United,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+669,Kristoffer Klaesson,Away,Matchweek 25,Leeds United,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+670,Kristoffer Klaesson,Home,Matchweek 26,Leeds United,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+671,Kristoffer Klaesson,Away,Matchweek 19,Leeds United,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+672,Kristoffer Klaesson,Home,Matchweek 27,Leeds United,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+673,Kristoffer Klaesson,Away,Matchweek 28,Leeds United,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+674,Kristoffer Klaesson,Home,Matchweek 20,Leeds United,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+675,Kristoffer Klaesson,Home,Matchweek 29,Leeds United,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+676,Kristoffer Klaesson,Away,Matchweek 30,Leeds United,Wolves,36,0.3
+677,Kristoffer Klaesson,Home,Matchweek 31,Leeds United,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+678,Kristoffer Klaesson,Away,Matchweek 32,Leeds United,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+679,Kristoffer Klaesson,Away,Matchweek 34,Leeds United,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+680,Kristoffer Klaesson,Home,Matchweek 35,Leeds United,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+681,Kristoffer Klaesson,Away,Matchweek 36,Leeds United,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+682,Kristoffer Klaesson,Home,Matchweek 33,Leeds United,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+683,Kristoffer Klaesson,Home,Matchweek 37,Leeds United,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+684,Kristoffer Klaesson,Away,Matchweek 38,Leeds United,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+685,Tim Krul,Home,Matchweek 1,Norwich City,Liverpool,90,2.5
+686,Tim Krul,Away,Matchweek 2,Norwich City,Manchester City,90,3.2
+687,Tim Krul,Home,Matchweek 3,Norwich City,Leicester City,90,1.4
+688,Tim Krul,Away,Matchweek 4,Norwich City,Arsenal,90,1.6
+689,Tim Krul,Home,Matchweek 5,Norwich City,Watford,90,3.4
+690,Tim Krul,Away,Matchweek 6,Norwich City,Everton,90,2.0
+691,Tim Krul,Away,Matchweek 7,Norwich City,Burnley,90,1.1
+692,Tim Krul,Home,Matchweek 8,Norwich City,Brighton,90,0.2
+693,Tim Krul,Away,Matchweek 9,Norwich City,Chelsea,90,5.6
+694,Tim Krul,Home,Matchweek 10,Norwich City,Leeds United,90,0.8
+695,Tim Krul,Away,Matchweek 11,Norwich City,Brentford,90,3.1
+696,Tim Krul,Home,Matchweek 12,Norwich City,Southampton,90,1.0
+697,Tim Krul,Home,Matchweek 13,Norwich City,Wolves,90,0.0
+698,Tim Krul,Away,Matchweek 15,Norwich City,Tottenham,90,1.9
+699,Tim Krul,Home,Matchweek 16,Norwich City,Manchester Utd,90,1.6
+700,Tim Krul,Home,Matchweek 17,Norwich City,Aston Villa,90,1.7
+701,Tim Krul,Away,Matchweek 18,Norwich City,West Ham,90,2.7
+702,Tim Krul,Home,Matchweek 22,Norwich City,Everton,90,0.5
+703,Tim Krul,Away,Matchweek 27,Norwich City,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+704,Tim Krul,Home,Matchweek 28,Norwich City,Brentford,90,2.8
+705,Tim Krul,Home,Matchweek 30,Norwich City,Chelsea,90,2.7
+706,Tim Krul,Away,Matchweek 29,Norwich City,Leeds United,90,2.5
+707,Tim Krul,Away,Matchweek 31,Norwich City,Brighton,90,0.3
+708,Tim Krul,Home,Matchweek 32,Norwich City,Burnley,90,0.8
+709,Tim Krul,Away,Matchweek 33,Norwich City,Manchester Utd,90,1.5
+710,Tim Krul,Home,Matchweek 34,Norwich City,Newcastle Utd,90,2.3
+711,Tim Krul,Away,Matchweek 35,Norwich City,Aston Villa,90,2.2
+712,Tim Krul,Home,Matchweek 36,Norwich City,West Ham,90,2.3
+713,Tim Krul,Away,Matchweek 21,Norwich City,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+714,Tim Krul,Away,Matchweek 37,Norwich City,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+715,Tim Krul,Home,Matchweek 38,Norwich City,Tottenham,90,4.6
+716,Bernd Leno,Away,Matchweek 1,Arsenal,Brentford,90,0.9
+717,Bernd Leno,Home,Matchweek 2,Arsenal,Chelsea,90,1.3
+718,Bernd Leno,Away,Matchweek 3,Arsenal,Manchester City,90,4.9
+719,Bernd Leno,Home,Matchweek 4,Arsenal,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+720,Bernd Leno,Away,Matchweek 5,Arsenal,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+721,Bernd Leno,Home,Matchweek 6,Arsenal,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+722,Bernd Leno,Away,Matchweek 7,Arsenal,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+723,Bernd Leno,Home,Matchweek 8,Arsenal,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+724,Bernd Leno,Home,Matchweek 9,Arsenal,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+725,Bernd Leno,Away,Matchweek 10,Arsenal,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+726,Bernd Leno,Home,Matchweek 11,Arsenal,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+727,Bernd Leno,Away,Matchweek 12,Arsenal,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+728,Bernd Leno,Home,Matchweek 13,Arsenal,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+729,Bernd Leno,Away,Matchweek 18,Arsenal,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+730,Bernd Leno,Away,Matchweek 19,Arsenal,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+731,Bernd Leno,Home,Matchweek 21,Arsenal,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+732,Bernd Leno,Home,Matchweek 23,Arsenal,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+733,Bernd Leno,Home,Matchweek 26,Arsenal,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+734,Bernd Leno,Home,Matchweek 20,Arsenal,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+735,Bernd Leno,Away,Matchweek 28,Arsenal,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+736,Bernd Leno,Home,Matchweek 29,Arsenal,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+737,Bernd Leno,Home,Matchweek 27,Arsenal,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+738,Bernd Leno,Away,Matchweek 30,Arsenal,Aston Villa,90,0.3
+739,Bernd Leno,Away,Matchweek 31,Arsenal,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+740,Bernd Leno,Home,Matchweek 32,Arsenal,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+741,Bernd Leno,Away,Matchweek 33,Arsenal,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+742,Bernd Leno,Away,Matchweek 25,Arsenal,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+743,Bernd Leno,Home,Matchweek 34,Arsenal,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+744,Bernd Leno,Away,Matchweek 35,Arsenal,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+745,Bernd Leno,Home,Matchweek 36,Arsenal,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+746,Bernd Leno,Away,Matchweek 22,Arsenal,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+747,Bernd Leno,Away,Matchweek 37,Arsenal,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+748,Bernd Leno,Home,Matchweek 38,Arsenal,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+749,Hugo Lloris,Home,Matchweek 1,Tottenham,Manchester City,90,0.3
+750,Hugo Lloris,Away,Matchweek 2,Tottenham,Wolves,90,1.1
+751,Hugo Lloris,Home,Matchweek 3,Tottenham,Watford,90,0.0
+752,Hugo Lloris,Away,Matchweek 4,Tottenham,Crystal Palace,90,2.6
+753,Hugo Lloris,Home,Matchweek 5,Tottenham,Chelsea,90,3.3
+754,Hugo Lloris,Away,Matchweek 6,Tottenham,Arsenal,90,2.6
+755,Hugo Lloris,Home,Matchweek 7,Tottenham,Aston Villa,90,0.9
+756,Hugo Lloris,Away,Matchweek 8,Tottenham,Newcastle Utd,90,0.9
+757,Hugo Lloris,Away,Matchweek 9,Tottenham,West Ham,90,1.5
+758,Hugo Lloris,Home,Matchweek 10,Tottenham,Manchester Utd,90,2.1
+759,Hugo Lloris,Away,Matchweek 11,Tottenham,Everton,90,0.1
+760,Hugo Lloris,Home,Matchweek 12,Tottenham,Leeds United,90,1.0
+761,Hugo Lloris,Home,Matchweek 14,Tottenham,Brentford,90,0.3
+762,Hugo Lloris,Home,Matchweek 15,Tottenham,Norwich City,90,0.3
+763,Hugo Lloris,Home,Matchweek 18,Tottenham,Liverpool,90,2.7
+764,Hugo Lloris,Away,Matchweek 20,Tottenham,Southampton,90,0.7
+765,Hugo Lloris,Away,Matchweek 21,Tottenham,Watford,90,0.4
+766,Hugo Lloris,Away,Matchweek 17,Tottenham,Leicester City,90,1.7
+767,Hugo Lloris,Away,Matchweek 23,Tottenham,Chelsea,90,1.7
+768,Hugo Lloris,Home,Matchweek 24,Tottenham,Southampton,90,3.2
+769,Hugo Lloris,Home,Matchweek 25,Tottenham,Wolves,90,1.9
+770,Hugo Lloris,Away,Matchweek 26,Tottenham,Manchester City,90,2.3
+771,Hugo Lloris,Away,Matchweek 13,Tottenham,Burnley,90,0.8
+772,Hugo Lloris,Away,Matchweek 27,Tottenham,Leeds United,90,0.5
+773,Hugo Lloris,Away,Matchweek 29,Tottenham,Manchester Utd,90,1.7
+774,Hugo Lloris,Home,Matchweek 30,Tottenham,West Ham,90,0.4
+775,Hugo Lloris,Home,Matchweek 31,Tottenham,Newcastle Utd,90,0.4
+776,Hugo Lloris,Away,Matchweek 32,Tottenham,Aston Villa,90,0.6
+777,Hugo Lloris,Home,Matchweek 33,Tottenham,Brighton,90,0.6
+778,Hugo Lloris,Away,Matchweek 34,Tottenham,Brentford,90,0.0
+779,Hugo Lloris,Home,Matchweek 35,Tottenham,Leicester City,90,1.0
+780,Hugo Lloris,Away,Matchweek 36,Tottenham,Liverpool,90,0.4
+781,Hugo Lloris,Home,Matchweek 22,Tottenham,Arsenal,90,0.5
+782,Hugo Lloris,Home,Matchweek 37,Tottenham,Burnley,90,0.0
+783,Jonas Lössl,Away,Matchweek 18,Brentford,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+784,Jonas Lössl,Away,Matchweek 22,Brentford,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+785,Jonas Lössl,Home,Matchweek 17,Brentford,Manchester Utd,90,2.7
+786,Jonas Lössl,Home,Matchweek 23,Brentford,Wolves,90,0.5
+787,Jonas Lössl,Away,Matchweek 24,Brentford,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+788,Jonas Lössl,Home,Matchweek 25,Brentford,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+789,Jonas Lössl,Home,Matchweek 27,Brentford,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+790,Jonas Lössl,Away,Matchweek 28,Brentford,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+791,Jonas Lössl,Home,Matchweek 29,Brentford,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+792,Jonas Lössl,Home,Matchweek 34,Brentford,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+793,Jonas Lössl,Home,Matchweek 36,Brentford,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+794,Jonas Lössl,Away,Matchweek 37,Brentford,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+795,Emiliano Martínez,Away,Matchweek 1,Aston Villa,Watford,90.0,1.2
+796,Emiliano Martínez,Home,Matchweek 2,Aston Villa,Newcastle Utd,90.0,0.0
+797,Emiliano Martínez,Home,Matchweek 3,Aston Villa,Brentford,90.0,1.1
+798,Emiliano Martínez,Home,Matchweek 5,Aston Villa,Everton,90.0,0.0
+799,Emiliano Martínez,Away,Matchweek 6,Aston Villa,Manchester Utd,90.0,0.6
+800,Emiliano Martínez,Away,Matchweek 7,Aston Villa,Tottenham,90.0,1.7
+801,Emiliano Martínez,Home,Matchweek 8,Aston Villa,Wolves,90.0,2.7
+802,Emiliano Martínez,Away,Matchweek 9,Aston Villa,Arsenal,90.0,2.6
+803,Emiliano Martínez,Home,Matchweek 10,Aston Villa,West Ham,90.0,2.5
+804,Emiliano Martínez,Away,Matchweek 11,Aston Villa,Southampton,90.0,0.6
+805,Emiliano Martínez,Home,Matchweek 12,Aston Villa,Brighton,90.0,0.2
+806,Emiliano Martínez,Away,Matchweek 13,Aston Villa,Crystal Palace,90.0,0.8
+807,Emiliano Martínez,Home,Matchweek 14,Aston Villa,Manchester City,90.0,0.9
+808,Emiliano Martínez,Home,Matchweek 15,Aston Villa,Leicester City,90.0,1.9
+809,Emiliano Martínez,Away,Matchweek 16,Aston Villa,Liverpool,90.0,1.4
+810,Emiliano Martínez,Away,Matchweek 17,Aston Villa,Norwich City,90.0,0.1
+811,Emiliano Martínez,Home,Matchweek 19,Aston Villa,Chelsea,90.0,2.6
+812,Emiliano Martínez,Away,Matchweek 21,Aston Villa,Brentford,90.0,0.9
+813,Emiliano Martínez,Home,Matchweek 22,Aston Villa,Manchester Utd,90.0,1.3
+814,Emiliano Martínez,Away,Matchweek 23,Aston Villa,Everton,90.0,0.4
+815,Emiliano Martínez,Home,Matchweek 24,Aston Villa,Leeds United,90.0,2.7
+816,Emiliano Martínez,Away,Matchweek 25,Aston Villa,Newcastle Utd,90.0,0.7
+817,Emiliano Martínez,Home,Matchweek 26,Aston Villa,Watford,90.0,1.7
+818,Emiliano Martínez,Away,Matchweek 27,Aston Villa,Brighton,90.0,0.1
+819,Emiliano Martínez,Home,Matchweek 28,Aston Villa,Southampton,90.0,0.3
+820,Emiliano Martínez,Away,Matchweek 20,Aston Villa,Leeds United,90.0,0.1
+821,Emiliano Martínez,Away,Matchweek 29,Aston Villa,West Ham,90.0,1.4
+822,Emiliano Martínez,Home,Matchweek 30,Aston Villa,Arsenal,90.0,0.5
+823,Emiliano Martínez,Away,Matchweek 31,Aston Villa,Wolves,90.0,0.5
+824,Emiliano Martínez,Home,Matchweek 32,Aston Villa,Tottenham,90.0,3.1
+825,Emiliano Martínez,Away,Matchweek 34,Aston Villa,Leicester City,90.0,0.6
+826,Emiliano Martínez,Home,Matchweek 35,Aston Villa,Norwich City,90.0,0.4
+827,Emiliano Martínez,Away,Matchweek 36,Aston Villa,Burnley,90.0,1.5
+828,Emiliano Martínez,Home,Matchweek 33,Aston Villa,Liverpool,90.0,1.5
+829,Emiliano Martínez,Home,Matchweek 37,Aston Villa,Crystal Palace,90.0,1.2
+830,Emiliano Martínez,Home,Matchweek 18,Aston Villa,Burnley,90.0,1.3
+831,Alex McCarthy,Away,Matchweek 1,Southampton,Everton,90,3.7
+832,Alex McCarthy,Home,Matchweek 2,Southampton,Manchester Utd,90,0.6
+833,Alex McCarthy,Away,Matchweek 3,Southampton,Newcastle Utd,90,1.6
+834,Alex McCarthy,Home,Matchweek 4,Southampton,West Ham,90,0.7
+835,Alex McCarthy,Away,Matchweek 5,Southampton,Manchester City,90,0.3
+836,Alex McCarthy,Home,Matchweek 6,Southampton,Wolves,90,1.1
+837,Alex McCarthy,Away,Matchweek 7,Southampton,Chelsea,90,2.9
+838,Alex McCarthy,Home,Matchweek 9,Southampton,Burnley,90,1.7
+839,Alex McCarthy,Away,Matchweek 10,Southampton,Watford,90,0.7
+840,Alex McCarthy,Home,Matchweek 11,Southampton,Aston Villa,90,0.1
+841,Alex McCarthy,Away,Matchweek 12,Southampton,Norwich City,90,1.1
+842,Alex McCarthy,Away,Matchweek 13,Southampton,Liverpool,90,2.4
+843,Alex McCarthy,Home,Matchweek 14,Southampton,Leicester City,90,2.5
+844,Alex McCarthy,Home,Matchweek 15,Southampton,Brighton,90,1.2
+845,Alex McCarthy,Away,Matchweek 36,Southampton,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+846,Alex McCarthy,Home,Matchweek 37,Southampton,Liverpool,90,1.2
+847,Alex McCarthy,Away,Matchweek 38,Southampton,Leicester City,90,2.9
+848,Edouard Mendy,Home,Matchweek 1,Chelsea,Crystal Palace,90,0.1
+849,Edouard Mendy,Away,Matchweek 2,Chelsea,Arsenal,90,0.0
+850,Edouard Mendy,Away,Matchweek 3,Chelsea,Liverpool,90,1.1
+851,Edouard Mendy,Home,Matchweek 4,Chelsea,Aston Villa,90,0.8
+852,Edouard Mendy,Home,Matchweek 6,Chelsea,Manchester City,90,0.9
+853,Edouard Mendy,Home,Matchweek 7,Chelsea,Southampton,90,1.1
+854,Edouard Mendy,Away,Matchweek 8,Chelsea,Brentford,90,1.7
+855,Edouard Mendy,Home,Matchweek 9,Chelsea,Norwich City,90,0.1
+856,Edouard Mendy,Home,Matchweek 11,Chelsea,Burnley,90,1.2
+857,Edouard Mendy,Away,Matchweek 12,Chelsea,Leicester City,90,0.2
+858,Edouard Mendy,Home,Matchweek 13,Chelsea,Manchester Utd,90,1.5
+859,Edouard Mendy,Away,Matchweek 14,Chelsea,Watford,90,1.3
+860,Edouard Mendy,Away,Matchweek 15,Chelsea,West Ham,90,1.3
+861,Edouard Mendy,Home,Matchweek 16,Chelsea,Leeds United,90,1.1
+862,Edouard Mendy,Home,Matchweek 17,Chelsea,Everton,90,1.1
+863,Edouard Mendy,Away,Matchweek 18,Chelsea,Wolves,90,0.4
+864,Edouard Mendy,Away,Matchweek 19,Chelsea,Aston Villa,90,0.0
+865,Edouard Mendy,Home,Matchweek 20,Chelsea,Brighton,90,1.1
+866,Edouard Mendy,Home,Matchweek 21,Chelsea,Liverpool,90,1.2
+867,Edouard Mendy,Away,Matchweek 30,Chelsea,Norwich City,90,1.8
+868,Edouard Mendy,Home,Matchweek 29,Chelsea,Newcastle Utd,90,0.1
+869,Edouard Mendy,Home,Matchweek 31,Chelsea,Brentford,90,3.1
+870,Edouard Mendy,Home,Matchweek 25,Chelsea,Arsenal,90,2.8
+871,Edouard Mendy,Home,Matchweek 34,Chelsea,West Ham,90,0.7
+872,Edouard Mendy,Away,Matchweek 37,Chelsea,Manchester Utd,90,0.6
+873,Edouard Mendy,Away,Matchweek 35,Chelsea,Everton,90,1.2
+874,Edouard Mendy,Home,Matchweek 36,Chelsea,Wolves,90,1.3
+875,Edouard Mendy,Home,Matchweek 38,Chelsea,Watford,90,1.1
+876,Illan Meslier,Away,Matchweek 1,Leeds United,Manchester Utd,90,1.9
+877,Illan Meslier,Home,Matchweek 2,Leeds United,Everton,90,3.0
+878,Illan Meslier,Away,Matchweek 3,Leeds United,Burnley,90,0.7
+879,Illan Meslier,Home,Matchweek 4,Leeds United,Liverpool,90,2.4
+880,Illan Meslier,Away,Matchweek 5,Leeds United,Newcastle Utd,90,1.5
+881,Illan Meslier,Home,Matchweek 6,Leeds United,West Ham,90,2.3
+882,Illan Meslier,Home,Matchweek 7,Leeds United,Watford,90,0.2
+883,Illan Meslier,Away,Matchweek 8,Leeds United,Southampton,90,1.1
+884,Illan Meslier,Home,Matchweek 9,Leeds United,Wolves,90,0.9
+885,Illan Meslier,Away,Matchweek 10,Leeds United,Norwich City,90,1.3
+886,Illan Meslier,Home,Matchweek 11,Leeds United,Leicester City,90,1.8
+887,Illan Meslier,Away,Matchweek 12,Leeds United,Tottenham,90,1.8
+888,Illan Meslier,Away,Matchweek 13,Leeds United,Brighton,90,1.1
+889,Illan Meslier,Home,Matchweek 14,Leeds United,Crystal Palace,90,0.2
+890,Illan Meslier,Home,Matchweek 15,Leeds United,Brentford,90,1.8
+891,Illan Meslier,Away,Matchweek 16,Leeds United,Chelsea,90,2.6
+892,Illan Meslier,Away,Matchweek 17,Leeds United,Manchester City,90,4.2
+893,Illan Meslier,Home,Matchweek 18,Leeds United,Arsenal,90,2.5
+894,Illan Meslier,Home,Matchweek 21,Leeds United,Burnley,90,0.9
+895,Illan Meslier,Away,Matchweek 22,Leeds United,West Ham,90,1.5
+896,Illan Meslier,Home,Matchweek 23,Leeds United,Newcastle Utd,90,1.3
+897,Illan Meslier,Away,Matchweek 24,Leeds United,Aston Villa,90,2.6
+898,Illan Meslier,Away,Matchweek 25,Leeds United,Everton,90,2.6
+899,Illan Meslier,Home,Matchweek 26,Leeds United,Manchester Utd,90,2.5
+900,Illan Meslier,Away,Matchweek 19,Leeds United,Liverpool,90,5.1
+901,Illan Meslier,Home,Matchweek 27,Leeds United,Tottenham,90,3.1
+902,Illan Meslier,Away,Matchweek 28,Leeds United,Leicester City,90,0.9
+903,Illan Meslier,Home,Matchweek 20,Leeds United,Aston Villa,90,3.1
+904,Illan Meslier,Home,Matchweek 29,Leeds United,Norwich City,90,0.9
+905,Illan Meslier,Away,Matchweek 30,Leeds United,Wolves,54,1.8
+906,Illan Meslier,Home,Matchweek 31,Leeds United,Southampton,90,1.1
+907,Illan Meslier,Away,Matchweek 32,Leeds United,Watford,90,0.9
+908,Illan Meslier,Away,Matchweek 34,Leeds United,Crystal Palace,90,1.5
+909,Illan Meslier,Home,Matchweek 35,Leeds United,Manchester City,90,2.8
+910,Illan Meslier,Away,Matchweek 36,Leeds United,Arsenal,90,2.5
+911,Illan Meslier,Home,Matchweek 33,Leeds United,Chelsea,90,1.8
+912,Illan Meslier,Home,Matchweek 37,Leeds United,Brighton,90,1.3
+913,Illan Meslier,Away,Matchweek 38,Leeds United,Brentford,90,1.2
+914,Robin Olsen,Away,Matchweek 23,Aston Villa,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+915,Robin Olsen,Home,Matchweek 24,Aston Villa,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+916,Robin Olsen,Away,Matchweek 25,Aston Villa,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+917,Robin Olsen,Home,Matchweek 26,Aston Villa,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+918,Robin Olsen,Away,Matchweek 27,Aston Villa,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+919,Robin Olsen,Home,Matchweek 28,Aston Villa,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+920,Robin Olsen,Away,Matchweek 20,Aston Villa,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+921,Robin Olsen,Away,Matchweek 29,Aston Villa,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+922,Robin Olsen,Home,Matchweek 30,Aston Villa,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+923,Robin Olsen,Away,Matchweek 31,Aston Villa,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+924,Robin Olsen,Home,Matchweek 32,Aston Villa,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+925,Robin Olsen,Away,Matchweek 34,Aston Villa,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+926,Robin Olsen,Home,Matchweek 35,Aston Villa,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+927,Robin Olsen,Away,Matchweek 36,Aston Villa,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+928,Robin Olsen,Home,Matchweek 33,Aston Villa,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+929,Robin Olsen,Home,Matchweek 37,Aston Villa,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+930,Robin Olsen,Home,Matchweek 18,Aston Villa,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+931,Robin Olsen,Away,Matchweek 38,Aston Villa,Manchester City,90,2.6
+932,Jordan Pickford,Home,Matchweek 1,Everton,Southampton,90,1.0
+933,Jordan Pickford,Away,Matchweek 2,Everton,Leeds United,90,1.5
+934,Jordan Pickford,Away,Matchweek 3,Everton,Brighton,90,0.5
+935,Jordan Pickford,Home,Matchweek 4,Everton,Burnley,90,0.7
+936,Jordan Pickford,Home,Matchweek 6,Everton,Norwich City,90,0.1
+937,Jordan Pickford,Away,Matchweek 7,Everton,Manchester Utd,90,0.5
+938,Jordan Pickford,Home,Matchweek 8,Everton,West Ham,90,1.7
+939,Jordan Pickford,Home,Matchweek 9,Everton,Watford,90,4.5
+940,Jordan Pickford,Away,Matchweek 10,Everton,Wolves,90,1.6
+941,Jordan Pickford,Away,Matchweek 12,Everton,Manchester City,90,2.3
+942,Jordan Pickford,Away,Matchweek 13,Everton,Brentford,90,1.1
+943,Jordan Pickford,Home,Matchweek 14,Everton,Liverpool,90,2.9
+944,Jordan Pickford,Home,Matchweek 15,Everton,Arsenal,90,0.6
+945,Jordan Pickford,Away,Matchweek 16,Everton,Crystal Palace,90,1.3
+946,Jordan Pickford,Away,Matchweek 17,Everton,Chelsea,90,3.0
+947,Jordan Pickford,Home,Matchweek 21,Everton,Brighton,90,2.6
+948,Jordan Pickford,Away,Matchweek 22,Everton,Norwich City,90,0.8
+949,Jordan Pickford,Home,Matchweek 23,Everton,Aston Villa,90,0.9
+950,Jordan Pickford,Away,Matchweek 24,Everton,Newcastle Utd,90,2.2
+951,Jordan Pickford,Away,Matchweek 26,Everton,Southampton,90,3.3
+952,Jordan Pickford,Home,Matchweek 27,Everton,Manchester City,90,1.3
+953,Jordan Pickford,Away,Matchweek 28,Everton,Tottenham,90,3.0
+954,Jordan Pickford,Home,Matchweek 29,Everton,Wolves,90,0.9
+955,Jordan Pickford,Away,Matchweek 31,Everton,West Ham,90,1.3
+956,Jordan Pickford,Away,Matchweek 19,Everton,Burnley,90,2.1
+957,Jordan Pickford,Home,Matchweek 32,Everton,Manchester Utd,90,0.6
+958,Jordan Pickford,Home,Matchweek 18,Everton,Leicester City,90,1.3
+959,Jordan Pickford,Away,Matchweek 34,Everton,Liverpool,90,1.8
+960,Jordan Pickford,Home,Matchweek 35,Everton,Chelsea,90,2.2
+961,Jordan Pickford,Away,Matchweek 36,Everton,Leicester City,90,1.5
+962,Jordan Pickford,Home,Matchweek 37,Everton,Brentford,90,2.7
+963,Jordan Pickford,Home,Matchweek 33,Everton,Crystal Palace,90,2.0
+964,Nick Pope,Home,Matchweek 1,Burnley,Brighton,90,1.3
+965,Nick Pope,Away,Matchweek 2,Burnley,Liverpool,90,2.0
+966,Nick Pope,Home,Matchweek 3,Burnley,Leeds United,90,0.9
+967,Nick Pope,Away,Matchweek 4,Burnley,Everton,90,1.9
+968,Nick Pope,Home,Matchweek 5,Burnley,Arsenal,90,0.9
+969,Nick Pope,Away,Matchweek 6,Burnley,Leicester City,90,0.9
+970,Nick Pope,Home,Matchweek 7,Burnley,Norwich City,90,0.7
+971,Nick Pope,Away,Matchweek 8,Burnley,Manchester City,90,2.1
+972,Nick Pope,Away,Matchweek 9,Burnley,Southampton,90,1.0
+973,Nick Pope,Home,Matchweek 10,Burnley,Brentford,90,1.1
+974,Nick Pope,Away,Matchweek 11,Burnley,Chelsea,90,1.1
+975,Nick Pope,Home,Matchweek 12,Burnley,Crystal Palace,90,2.5
+976,Nick Pope,Away,Matchweek 14,Burnley,Wolves,90,0.8
+977,Nick Pope,Away,Matchweek 15,Burnley,Newcastle Utd,90,0.8
+978,Nick Pope,Home,Matchweek 16,Burnley,West Ham,90,0.3
+979,Nick Pope,Away,Matchweek 23,Burnley,Arsenal,90,0.8
+980,Nick Pope,Home,Matchweek 17,Burnley,Watford,90,1.0
+981,Nick Pope,Home,Matchweek 24,Burnley,Manchester Utd,90,2.4
+982,Nick Pope,Home,Matchweek 25,Burnley,Liverpool,90,1.5
+983,Nick Pope,Away,Matchweek 26,Burnley,Brighton,90,0.0
+984,Nick Pope,Home,Matchweek 13,Burnley,Tottenham,90,1.0
+985,Nick Pope,Away,Matchweek 27,Burnley,Crystal Palace,90,1.6
+986,Nick Pope,Home,Matchweek 22,Burnley,Leicester City,90,1.3
+987,Nick Pope,Home,Matchweek 28,Burnley,Chelsea,90,2.8
+988,Nick Pope,Away,Matchweek 29,Burnley,Brentford,90,2.1
+989,Nick Pope,Home,Matchweek 31,Burnley,Manchester City,90,1.6
+990,Nick Pope,Home,Matchweek 19,Burnley,Everton,90,2.4
+991,Nick Pope,Away,Matchweek 32,Burnley,Norwich City,90,1.7
+992,Nick Pope,Away,Matchweek 33,Burnley,West Ham,90,1.5
+993,Nick Pope,Home,Matchweek 30,Burnley,Southampton,90,0.5
+994,Nick Pope,Home,Matchweek 34,Burnley,Wolves,90,0.6
+995,Nick Pope,Away,Matchweek 35,Burnley,Watford,90,0.3
+996,Nick Pope,Home,Matchweek 36,Burnley,Aston Villa,90,2.1
+997,Nick Pope,Away,Matchweek 37,Burnley,Tottenham,90,2.4
+998,Nick Pope,Away,Matchweek 18,Burnley,Aston Villa,90,2.0
+999,Nick Pope,Home,Matchweek 38,Burnley,Newcastle Utd,90,2.5
+1000,Aaron Ramsdale,Home,Matchweek 2,Arsenal,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1001,Aaron Ramsdale,Away,Matchweek 3,Arsenal,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1002,Aaron Ramsdale,Home,Matchweek 4,Arsenal,Norwich City,90,0.0
+1003,Aaron Ramsdale,Away,Matchweek 5,Arsenal,Burnley,90,0.6
+1004,Aaron Ramsdale,Home,Matchweek 6,Arsenal,Tottenham,90,1.1
+1005,Aaron Ramsdale,Away,Matchweek 7,Arsenal,Brighton,90,0.1
+1006,Aaron Ramsdale,Home,Matchweek 8,Arsenal,Crystal Palace,90,1.6
+1007,Aaron Ramsdale,Home,Matchweek 9,Arsenal,Aston Villa,90,1.3
+1008,Aaron Ramsdale,Away,Matchweek 10,Arsenal,Leicester City,90,1.5
+1009,Aaron Ramsdale,Home,Matchweek 11,Arsenal,Watford,90,0.0
+1010,Aaron Ramsdale,Away,Matchweek 12,Arsenal,Liverpool,90,4.4
+1011,Aaron Ramsdale,Home,Matchweek 13,Arsenal,Newcastle Utd,90,0.1
+1012,Aaron Ramsdale,Away,Matchweek 14,Arsenal,Manchester Utd,90,2.3
+1013,Aaron Ramsdale,Away,Matchweek 15,Arsenal,Everton,90,0.4
+1014,Aaron Ramsdale,Home,Matchweek 16,Arsenal,Southampton,90,0.3
+1015,Aaron Ramsdale,Home,Matchweek 17,Arsenal,West Ham,90,0.5
+1016,Aaron Ramsdale,Away,Matchweek 18,Arsenal,Leeds United,90,1.0
+1017,Aaron Ramsdale,Away,Matchweek 19,Arsenal,Norwich City,90,0.1
+1018,Aaron Ramsdale,Home,Matchweek 21,Arsenal,Manchester City,90,1.6
+1019,Aaron Ramsdale,Home,Matchweek 23,Arsenal,Burnley,90,0.0
+1020,Aaron Ramsdale,Away,Matchweek 24,Arsenal,Wolves,90,0.2
+1021,Aaron Ramsdale,Home,Matchweek 26,Arsenal,Brentford,90,0.2
+1022,Aaron Ramsdale,Home,Matchweek 20,Arsenal,Wolves,90,0.7
+1023,Aaron Ramsdale,Away,Matchweek 28,Arsenal,Watford,90,1.3
+1024,Aaron Ramsdale,Home,Matchweek 29,Arsenal,Leicester City,90,0.7
+1025,Aaron Ramsdale,Home,Matchweek 27,Arsenal,Liverpool,90,1.0
+1026,Aaron Ramsdale,Away,Matchweek 31,Arsenal,Crystal Palace,90,1.7
+1027,Aaron Ramsdale,Home,Matchweek 32,Arsenal,Brighton,90,1.5
+1028,Aaron Ramsdale,Away,Matchweek 33,Arsenal,Southampton,90,0.8
+1029,Aaron Ramsdale,Away,Matchweek 25,Arsenal,Chelsea,90,0.7
+1030,Aaron Ramsdale,Home,Matchweek 34,Arsenal,Manchester Utd,90,1.0
+1031,Aaron Ramsdale,Away,Matchweek 35,Arsenal,West Ham,90,1.0
+1032,Aaron Ramsdale,Home,Matchweek 36,Arsenal,Leeds United,90,0.7
+1033,Aaron Ramsdale,Away,Matchweek 22,Arsenal,Tottenham,90,2.8
+1034,Aaron Ramsdale,Away,Matchweek 37,Arsenal,Newcastle Utd,90,1.7
+1035,Aaron Ramsdale,Home,Matchweek 38,Arsenal,Everton,90,0.7
+1036,David Raya,Home,Matchweek 1,Brentford,Arsenal,90,0.4
+1037,David Raya,Away,Matchweek 2,Brentford,Crystal Palace,90,0.2
+1038,David Raya,Away,Matchweek 3,Brentford,Aston Villa,90,1.7
+1039,David Raya,Home,Matchweek 4,Brentford,Brighton,90,0.6
+1040,David Raya,Home,Matchweek 6,Brentford,Liverpool,90,2.4
+1041,David Raya,Away,Matchweek 7,Brentford,West Ham,90,1.0
+1042,David Raya,Home,Matchweek 8,Brentford,Chelsea,90,0.5
+1043,David Raya,Home,Matchweek 9,Brentford,Leicester City,90,1.4
+1044,David Raya,Away,Matchweek 24,Brentford,Manchester City,90,1.8
+1045,David Raya,Home,Matchweek 25,Brentford,Crystal Palace,90,0.2
+1046,David Raya,Away,Matchweek 26,Brentford,Arsenal,90,2.9
+1047,David Raya,Home,Matchweek 27,Brentford,Newcastle Utd,90,2.7
+1048,David Raya,Away,Matchweek 28,Brentford,Norwich City,90,1.2
+1049,David Raya,Home,Matchweek 29,Brentford,Burnley,90,0.1
+1050,David Raya,Away,Matchweek 30,Brentford,Leicester City,90,1.8
+1051,David Raya,Away,Matchweek 31,Brentford,Chelsea,90,1.3
+1052,David Raya,Home,Matchweek 32,Brentford,West Ham,90,0.0
+1053,David Raya,Away,Matchweek 33,Brentford,Watford,90,0.4
+1054,David Raya,Home,Matchweek 34,Brentford,Tottenham,90,0.2
+1055,David Raya,Away,Matchweek 35,Brentford,Manchester Utd,90,1.8
+1056,David Raya,Home,Matchweek 36,Brentford,Southampton,90,1.1
+1057,David Raya,Away,Matchweek 37,Brentford,Everton,90,2.3
+1058,David Raya,Home,Matchweek 38,Brentford,Leeds United,90,1.6
+1059,John Ruddy,Away,Matchweek 1,Wolves,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1060,John Ruddy,Home,Matchweek 2,Wolves,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1061,John Ruddy,Home,Matchweek 3,Wolves,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1062,John Ruddy,Away,Matchweek 4,Wolves,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1063,John Ruddy,Home,Matchweek 5,Wolves,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1064,John Ruddy,Away,Matchweek 6,Wolves,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1065,John Ruddy,Home,Matchweek 7,Wolves,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1066,John Ruddy,Away,Matchweek 8,Wolves,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+1067,John Ruddy,Away,Matchweek 9,Wolves,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1068,John Ruddy,Home,Matchweek 10,Wolves,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1069,John Ruddy,Away,Matchweek 11,Wolves,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1070,John Ruddy,Home,Matchweek 12,Wolves,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1071,John Ruddy,Away,Matchweek 13,Wolves,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1072,John Ruddy,Home,Matchweek 14,Wolves,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1073,John Ruddy,Home,Matchweek 15,Wolves,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1074,John Ruddy,Away,Matchweek 16,Wolves,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1075,John Ruddy,Away,Matchweek 17,Wolves,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1076,John Ruddy,Home,Matchweek 18,Wolves,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1077,John Ruddy,Away,Matchweek 21,Wolves,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1078,John Ruddy,Home,Matchweek 22,Wolves,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1079,John Ruddy,Away,Matchweek 23,Wolves,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1080,John Ruddy,Home,Matchweek 24,Wolves,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1081,John Ruddy,Away,Matchweek 25,Wolves,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1082,John Ruddy,Home,Matchweek 26,Wolves,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1083,John Ruddy,Away,Matchweek 20,Wolves,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1084,John Ruddy,Away,Matchweek 27,Wolves,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1085,John Ruddy,Home,Matchweek 28,Wolves,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1086,John Ruddy,Home,Matchweek 19,Wolves,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1087,John Ruddy,Away,Matchweek 29,Wolves,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1088,John Ruddy,Home,Matchweek 30,Wolves,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1089,John Ruddy,Home,Matchweek 31,Wolves,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+1090,John Ruddy,Away,Matchweek 32,Wolves,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1091,John Ruddy,Away,Matchweek 34,Wolves,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1092,John Ruddy,Home,Matchweek 35,Wolves,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1093,John Ruddy,Away,Matchweek 36,Wolves,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1094,John Ruddy,Home,Matchweek 33,Wolves,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1095,John Ruddy,Home,Matchweek 37,Wolves,Norwich City,90,0.8
+1096,John Ruddy,Away,Matchweek 38,Wolves,Liverpool,45,1.4
+1097,José Sá,Away,Matchweek 1,Wolves,Leicester City,90,1.5
+1098,José Sá,Home,Matchweek 2,Wolves,Tottenham,90,1.9
+1099,José Sá,Home,Matchweek 3,Wolves,Manchester Utd,90,0.3
+1100,José Sá,Away,Matchweek 4,Wolves,Watford,90,0.4
+1101,José Sá,Home,Matchweek 5,Wolves,Brentford,90,2.3
+1102,José Sá,Away,Matchweek 6,Wolves,Southampton,90,0.4
+1103,José Sá,Home,Matchweek 7,Wolves,Newcastle Utd,90,0.7
+1104,José Sá,Away,Matchweek 8,Wolves,Aston Villa,90,1.7
+1105,José Sá,Away,Matchweek 9,Wolves,Leeds United,90,1.0
+1106,José Sá,Home,Matchweek 10,Wolves,Everton,90,1.4
+1107,José Sá,Away,Matchweek 11,Wolves,Crystal Palace,90,1.9
+1108,José Sá,Home,Matchweek 12,Wolves,West Ham,90,0.3
+1109,José Sá,Away,Matchweek 13,Wolves,Norwich City,90,1.2
+1110,José Sá,Home,Matchweek 14,Wolves,Burnley,90,0.3
+1111,José Sá,Home,Matchweek 15,Wolves,Liverpool,90,2.6
+1112,José Sá,Away,Matchweek 16,Wolves,Manchester City,90,2.1
+1113,José Sá,Away,Matchweek 17,Wolves,Brighton,90,0.2
+1114,José Sá,Home,Matchweek 18,Wolves,Chelsea,90,0.1
+1115,José Sá,Away,Matchweek 21,Wolves,Manchester Utd,90,0.4
+1116,José Sá,Home,Matchweek 22,Wolves,Southampton,90,1.1
+1117,José Sá,Away,Matchweek 23,Wolves,Brentford,90,0.5
+1118,José Sá,Home,Matchweek 24,Wolves,Arsenal,90,1.0
+1119,José Sá,Away,Matchweek 25,Wolves,Tottenham,90,1.1
+1120,José Sá,Home,Matchweek 26,Wolves,Leicester City,90,1.8
+1121,José Sá,Away,Matchweek 20,Wolves,Arsenal,90,1.9
+1122,José Sá,Away,Matchweek 27,Wolves,West Ham,90,1.4
+1123,José Sá,Home,Matchweek 28,Wolves,Crystal Palace,90,3.0
+1124,José Sá,Away,Matchweek 29,Wolves,Everton,90,0.3
+1125,José Sá,Home,Matchweek 30,Wolves,Leeds United,90,1.5
+1126,José Sá,Home,Matchweek 31,Wolves,Aston Villa,90,2.0
+1127,José Sá,Away,Matchweek 32,Wolves,Newcastle Utd,90,1.2
+1128,José Sá,Away,Matchweek 34,Wolves,Burnley,90,1.0
+1129,José Sá,Home,Matchweek 35,Wolves,Brighton,90,3.3
+1130,José Sá,Away,Matchweek 36,Wolves,Chelsea,90,2.3
+1131,José Sá,Home,Matchweek 33,Wolves,Manchester City,90,3.6
+1132,José Sá,Home,Matchweek 37,Wolves,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1133,José Sá,Away,Matchweek 38,Wolves,Liverpool,45,0.5
+1134,Robert Sánchez,Away,Matchweek 1,Brighton,Burnley,90,0.8
+1135,Robert Sánchez,Home,Matchweek 2,Brighton,Watford,90,0.0
+1136,Robert Sánchez,Home,Matchweek 3,Brighton,Everton,90,2.0
+1137,Robert Sánchez,Away,Matchweek 4,Brighton,Brentford,90,0.0
+1138,Robert Sánchez,Home,Matchweek 5,Brighton,Leicester City,90,1.0
+1139,Robert Sánchez,Away,Matchweek 6,Brighton,Crystal Palace,90,1.1
+1140,Robert Sánchez,Home,Matchweek 7,Brighton,Arsenal,90,0.1
+1141,Robert Sánchez,Away,Matchweek 8,Brighton,Norwich City,90,0.0
+1142,Robert Sánchez,Home,Matchweek 9,Brighton,Manchester City,90,4.0
+1143,Robert Sánchez,Away,Matchweek 10,Brighton,Liverpool,90,1.1
+1144,Robert Sánchez,Home,Matchweek 11,Brighton,Newcastle Utd,89,0.8
+1145,Robert Sánchez,Home,Matchweek 13,Brighton,Leeds United,90,1.2
+1146,Robert Sánchez,Away,Matchweek 14,Brighton,West Ham,90,1.7
+1147,Robert Sánchez,Away,Matchweek 15,Brighton,Southampton,90,1.0
+1148,Robert Sánchez,Home,Matchweek 17,Brighton,Wolves,90,0.8
+1149,Robert Sánchez,Home,Matchweek 19,Brighton,Brentford,90,1.0
+1150,Robert Sánchez,Away,Matchweek 20,Brighton,Chelsea,90,1.1
+1151,Robert Sánchez,Away,Matchweek 21,Brighton,Everton,90,1.7
+1152,Robert Sánchez,Home,Matchweek 22,Brighton,Crystal Palace,90,0.8
+1153,Robert Sánchez,Home,Matchweek 24,Brighton,Chelsea,90,0.2
+1154,Robert Sánchez,Away,Matchweek 23,Brighton,Leicester City,90,0.9
+1155,Robert Sánchez,Away,Matchweek 25,Brighton,Watford,90,0.1
+1156,Robert Sánchez,Away,Matchweek 18,Brighton,Manchester Utd,90,2.6
+1157,Robert Sánchez,Home,Matchweek 26,Brighton,Burnley,90,1.7
+1158,Robert Sánchez,Home,Matchweek 27,Brighton,Aston Villa,90,2.0
+1159,Robert Sánchez,Away,Matchweek 28,Brighton,Newcastle Utd,90,2.0
+1160,Robert Sánchez,Home,Matchweek 29,Brighton,Liverpool,90,1.9
+1161,Robert Sánchez,Home,Matchweek 16,Brighton,Tottenham,90,3.5
+1162,Robert Sánchez,Away,Matchweek 32,Brighton,Arsenal,90,1.3
+1163,Robert Sánchez,Away,Matchweek 30,Brighton,Manchester City,90,2.6
+1164,Robert Sánchez,Home,Matchweek 34,Brighton,Southampton,90,1.4
+1165,Robert Sánchez,Away,Matchweek 35,Brighton,Wolves,90,0.2
+1166,Robert Sánchez,Home,Matchweek 36,Brighton,Manchester Utd,90,0.6
+1167,Robert Sánchez,Away,Matchweek 37,Brighton,Leeds United,90,1.2
+1168,Robert Sánchez,Home,Matchweek 38,Brighton,West Ham,90,0.6
+1169,Kasper Schmeichel,Home,Matchweek 1,Leicester City,Wolves,90,0.3
+1170,Kasper Schmeichel,Away,Matchweek 2,Leicester City,West Ham,90,3.4
+1171,Kasper Schmeichel,Away,Matchweek 3,Leicester City,Norwich City,90,1.1
+1172,Kasper Schmeichel,Home,Matchweek 4,Leicester City,Manchester City,90,1.3
+1173,Kasper Schmeichel,Away,Matchweek 5,Leicester City,Brighton,90,1.1
+1174,Kasper Schmeichel,Home,Matchweek 6,Leicester City,Burnley,90,0.4
+1175,Kasper Schmeichel,Away,Matchweek 7,Leicester City,Crystal Palace,90,0.8
+1176,Kasper Schmeichel,Home,Matchweek 8,Leicester City,Manchester Utd,90,0.7
+1177,Kasper Schmeichel,Away,Matchweek 9,Leicester City,Brentford,90,1.1
+1178,Kasper Schmeichel,Home,Matchweek 10,Leicester City,Arsenal,90,1.9
+1179,Kasper Schmeichel,Away,Matchweek 11,Leicester City,Leeds United,90,1.1
+1180,Kasper Schmeichel,Home,Matchweek 12,Leicester City,Chelsea,90,2.9
+1181,Kasper Schmeichel,Home,Matchweek 13,Leicester City,Watford,90,2.1
+1182,Kasper Schmeichel,Away,Matchweek 14,Leicester City,Southampton,90,1.8
+1183,Kasper Schmeichel,Away,Matchweek 15,Leicester City,Aston Villa,90,1.2
+1184,Kasper Schmeichel,Home,Matchweek 16,Leicester City,Newcastle Utd,90,0.5
+1185,Kasper Schmeichel,Away,Matchweek 19,Leicester City,Manchester City,90,5.1
+1186,Kasper Schmeichel,Home,Matchweek 20,Leicester City,Liverpool,90,1.0
+1187,Kasper Schmeichel,Home,Matchweek 17,Leicester City,Tottenham,90,3.7
+1188,Kasper Schmeichel,Home,Matchweek 23,Leicester City,Brighton,90,1.5
+1189,Kasper Schmeichel,Away,Matchweek 24,Leicester City,Liverpool,90,2.6
+1190,Kasper Schmeichel,Home,Matchweek 25,Leicester City,West Ham,90,1.6
+1191,Kasper Schmeichel,Away,Matchweek 26,Leicester City,Wolves,90,1.3
+1192,Kasper Schmeichel,Away,Matchweek 22,Leicester City,Burnley,90,0.9
+1193,Kasper Schmeichel,Home,Matchweek 28,Leicester City,Leeds United,90,1.0
+1194,Kasper Schmeichel,Away,Matchweek 29,Leicester City,Arsenal,90,2.2
+1195,Kasper Schmeichel,Home,Matchweek 30,Leicester City,Brentford,90,1.6
+1196,Kasper Schmeichel,Away,Matchweek 31,Leicester City,Manchester Utd,90,1.1
+1197,Kasper Schmeichel,Home,Matchweek 32,Leicester City,Crystal Palace,90,0.9
+1198,Kasper Schmeichel,Away,Matchweek 33,Leicester City,Newcastle Utd,90,1.8
+1199,Kasper Schmeichel,Away,Matchweek 18,Leicester City,Everton,90,1.5
+1200,Kasper Schmeichel,Home,Matchweek 34,Leicester City,Aston Villa,90,0.0
+1201,Kasper Schmeichel,Away,Matchweek 35,Leicester City,Tottenham,90,2.8
+1202,Kasper Schmeichel,Home,Matchweek 36,Leicester City,Everton,90,1.7
+1203,Kasper Schmeichel,Home,Matchweek 21,Leicester City,Norwich City,90,0.5
+1204,Kasper Schmeichel,Away,Matchweek 37,Leicester City,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1205,Kasper Schmeichel,Away,Matchweek 27,Leicester City,Chelsea,90,1.0
+1206,Kasper Schmeichel,Home,Matchweek 38,Leicester City,Southampton,90,0.8
+1207,Jason Steele,Away,Matchweek 1,Brighton,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1208,Jason Steele,Home,Matchweek 2,Brighton,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1209,Jason Steele,Home,Matchweek 3,Brighton,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1210,Jason Steele,Away,Matchweek 4,Brighton,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1211,Jason Steele,Home,Matchweek 5,Brighton,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1212,Jason Steele,Away,Matchweek 6,Brighton,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1213,Jason Steele,Home,Matchweek 7,Brighton,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1214,Jason Steele,Away,Matchweek 8,Brighton,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1215,Jason Steele,Home,Matchweek 9,Brighton,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1216,Jason Steele,Away,Matchweek 10,Brighton,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1217,Jason Steele,Home,Matchweek 11,Brighton,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1218,Jason Steele,Away,Matchweek 12,Brighton,Aston Villa,90,1.2
+1219,Jason Steele,Home,Matchweek 13,Brighton,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1220,Jason Steele,Away,Matchweek 14,Brighton,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1221,Jason Steele,Away,Matchweek 15,Brighton,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1222,Jason Steele,Away,Matchweek 20,Brighton,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1223,Jason Steele,Away,Matchweek 21,Brighton,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1224,Jason Steele,Away,Matchweek 25,Brighton,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1225,Jason Steele,Away,Matchweek 18,Brighton,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1226,Jason Steele,Home,Matchweek 26,Brighton,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1227,Jason Steele,Home,Matchweek 27,Brighton,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+1228,Jason Steele,Away,Matchweek 28,Brighton,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1229,Jason Steele,Home,Matchweek 29,Brighton,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1230,Jason Steele,Home,Matchweek 16,Brighton,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1231,Jason Steele,Home,Matchweek 31,Brighton,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1232,Jason Steele,Away,Matchweek 32,Brighton,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1233,Jason Steele,Away,Matchweek 33,Brighton,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1234,Jason Steele,Away,Matchweek 30,Brighton,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1235,Jason Steele,Home,Matchweek 34,Brighton,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1236,Jason Steele,Away,Matchweek 35,Brighton,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+1237,Jason Steele,Home,Matchweek 36,Brighton,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1238,Jason Steele,Away,Matchweek 37,Brighton,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1239,Jason Steele,Home,Matchweek 38,Brighton,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1240,Jed Steer,Away,Matchweek 1,Aston Villa,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1241,Jed Steer,Home,Matchweek 2,Aston Villa,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1242,Jed Steer,Home,Matchweek 3,Aston Villa,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1243,Jed Steer,Away,Matchweek 4,Aston Villa,Chelsea,90,1.8
+1244,Jed Steer,Home,Matchweek 5,Aston Villa,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1245,Jed Steer,Away,Matchweek 6,Aston Villa,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1246,Jed Steer,Away,Matchweek 7,Aston Villa,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1247,Jed Steer,Home,Matchweek 8,Aston Villa,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+1248,Jed Steer,Away,Matchweek 9,Aston Villa,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1249,Jed Steer,Home,Matchweek 10,Aston Villa,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1250,Jed Steer,Away,Matchweek 11,Aston Villa,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1251,Jed Steer,Home,Matchweek 12,Aston Villa,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1252,Jed Steer,Away,Matchweek 13,Aston Villa,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1253,Jed Steer,Home,Matchweek 14,Aston Villa,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1254,Jed Steer,Home,Matchweek 15,Aston Villa,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1255,Jed Steer,Away,Matchweek 16,Aston Villa,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1256,Jed Steer,Home,Matchweek 19,Aston Villa,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1257,Jed Steer,Away,Matchweek 21,Aston Villa,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1258,Jed Steer,Home,Matchweek 22,Aston Villa,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1259,Zack Steffen,Away,Matchweek 1,Manchester City,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1260,Zack Steffen,Home,Matchweek 2,Manchester City,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1261,Zack Steffen,Home,Matchweek 3,Manchester City,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1262,Zack Steffen,Away,Matchweek 6,Manchester City,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1263,Zack Steffen,Away,Matchweek 7,Manchester City,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1264,Zack Steffen,Home,Matchweek 8,Manchester City,Burnley,90,0.3
+1265,Zack Steffen,Away,Matchweek 9,Manchester City,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1266,Zack Steffen,Home,Matchweek 10,Manchester City,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1267,Zack Steffen,Away,Matchweek 11,Manchester City,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1268,Zack Steffen,Home,Matchweek 12,Manchester City,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1269,Zack Steffen,Home,Matchweek 13,Manchester City,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1270,Zack Steffen,Away,Matchweek 14,Manchester City,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+1271,Zack Steffen,Away,Matchweek 15,Manchester City,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1272,Zack Steffen,Home,Matchweek 16,Manchester City,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+1273,Zack Steffen,Home,Matchweek 17,Manchester City,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1274,Zack Steffen,Away,Matchweek 18,Manchester City,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1275,Zack Steffen,Home,Matchweek 19,Manchester City,Leicester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1276,Zack Steffen,Away,Matchweek 20,Manchester City,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1277,Zack Steffen,Away,Matchweek 21,Manchester City,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1278,Zack Steffen,Home,Matchweek 22,Manchester City,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1279,Zack Steffen,Home,Matchweek 24,Manchester City,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1280,Zack Steffen,Away,Matchweek 29,Manchester City,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1281,Zack Steffen,Away,Matchweek 31,Manchester City,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1282,Zack Steffen,Home,Matchweek 32,Manchester City,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1283,Zack Steffen,Home,Matchweek 30,Manchester City,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1284,Zack Steffen,Home,Matchweek 34,Manchester City,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1285,Zack Steffen,Away,Matchweek 35,Manchester City,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1286,Zack Steffen,Home,Matchweek 36,Manchester City,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1287,Zack Steffen,Away,Matchweek 33,Manchester City,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+1288,Zack Steffen,Away,Matchweek 37,Manchester City,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1289,Danny Ward,Home,Matchweek 1,Leicester City,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+1290,Danny Ward,Away,Matchweek 2,Leicester City,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1291,Danny Ward,Away,Matchweek 3,Leicester City,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1292,Danny Ward,Home,Matchweek 4,Leicester City,Manchester City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1293,Danny Ward,Away,Matchweek 5,Leicester City,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1294,Danny Ward,Home,Matchweek 6,Leicester City,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1295,Danny Ward,Away,Matchweek 7,Leicester City,Crystal Palace,"On matchday squad, but did not play","On matchday squad, but did not play"
+1296,Danny Ward,Home,Matchweek 8,Leicester City,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1297,Danny Ward,Away,Matchweek 9,Leicester City,Brentford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1298,Danny Ward,Home,Matchweek 10,Leicester City,Arsenal,"On matchday squad, but did not play","On matchday squad, but did not play"
+1299,Danny Ward,Away,Matchweek 11,Leicester City,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1300,Danny Ward,Home,Matchweek 12,Leicester City,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1301,Danny Ward,Home,Matchweek 13,Leicester City,Watford,"On matchday squad, but did not play","On matchday squad, but did not play"
+1302,Danny Ward,Away,Matchweek 14,Leicester City,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1303,Danny Ward,Away,Matchweek 15,Leicester City,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+1304,Danny Ward,Home,Matchweek 16,Leicester City,Newcastle Utd,"On matchday squad, but did not play","On matchday squad, but did not play"
+1305,Danny Ward,Home,Matchweek 20,Leicester City,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1306,Danny Ward,Home,Matchweek 17,Leicester City,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1307,Danny Ward,Home,Matchweek 23,Leicester City,Brighton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1308,Danny Ward,Away,Matchweek 24,Leicester City,Liverpool,"On matchday squad, but did not play","On matchday squad, but did not play"
+1309,Danny Ward,Home,Matchweek 25,Leicester City,West Ham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1310,Danny Ward,Away,Matchweek 26,Leicester City,Wolves,"On matchday squad, but did not play","On matchday squad, but did not play"
+1311,Danny Ward,Away,Matchweek 22,Leicester City,Burnley,"On matchday squad, but did not play","On matchday squad, but did not play"
+1312,Danny Ward,Home,Matchweek 28,Leicester City,Leeds United,"On matchday squad, but did not play","On matchday squad, but did not play"
+1313,Danny Ward,Away,Matchweek 18,Leicester City,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1314,Danny Ward,Home,Matchweek 34,Leicester City,Aston Villa,"On matchday squad, but did not play","On matchday squad, but did not play"
+1315,Danny Ward,Away,Matchweek 35,Leicester City,Tottenham,"On matchday squad, but did not play","On matchday squad, but did not play"
+1316,Danny Ward,Home,Matchweek 36,Leicester City,Everton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1317,Danny Ward,Home,Matchweek 21,Leicester City,Norwich City,"On matchday squad, but did not play","On matchday squad, but did not play"
+1318,Danny Ward,Away,Matchweek 37,Leicester City,Watford,90,1.3
+1319,Danny Ward,Away,Matchweek 27,Leicester City,Chelsea,"On matchday squad, but did not play","On matchday squad, but did not play"
+1320,Danny Ward,Home,Matchweek 38,Leicester City,Southampton,"On matchday squad, but did not play","On matchday squad, but did not play"
+1321,Freddie Woodman,Home,Matchweek 1,Newcastle Utd,West Ham,90,3.1
+1322,Freddie Woodman,Away,Matchweek 2,Newcastle Utd,Aston Villa,90,1.4
+1323,Freddie Woodman,Home,Matchweek 3,Newcastle Utd,Southampton,90,2.0
+1324,Freddie Woodman,Away,Matchweek 4,Newcastle Utd,Manchester Utd,90,2.2
+1325,Freddie Woodman,Home,Matchweek 19,Newcastle Utd,Manchester Utd,"On matchday squad, but did not play","On matchday squad, but did not play"

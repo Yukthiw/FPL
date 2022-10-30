@@ -2,7 +2,7 @@
 """
 Created on Sat Jan  2 17:57:09 2021
 
-@author: Sama
+@author: Yukthi Wickramarachchi
 """
 
 import fpl_fbref_scraper
