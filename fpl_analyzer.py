@@ -10,10 +10,6 @@ import tkinter
 from tkinter import filedialog
 
 
-def scrape_only():
-    url = input("Enter fbref url:\n")
-    fpl_fbref_scraper.scrape(url)
-
 def analyze_only():
     root = tkinter.Tk()
     root.withdraw()
