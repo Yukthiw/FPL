@@ -1,2 +1,2 @@
 # FPL
-End-to-End Fantasy English Premier League Prediction Model
+Tool for FBRef and Fantasy Football API data scraping and cleaning.
