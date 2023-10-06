@@ -1,21 +1,14 @@
-from Controllers import ScraperController
-
-
+from Controllers.ScraperController import ScraperController
 def print_option_list():
     print("Welcome to FPL Scraper Tool")
     print("Please choose an option: \n")
     print("1. Scrape Player Data \n 2. Scape FPL Data \n 3. Scrape Team Data \n 4. Scrape All \n q Quit \n")
 
-
-class CLIController:
-    def __init__(self):
-        pass
-
-    if __name__ == "__main__":
+if __name__ == "__main__":
         is_running = True
         while is_running:
             print_option_list()
-            scraper_controller = ScraperController.ScraperController()
+            scraper_controller = ScraperController()
             user_input = input("Enter desired option number: \n")
             if user_input == "1":
                 user_input = input("Enter year - format: yyyy-yyyy\n")

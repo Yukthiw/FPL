@@ -6,16 +6,15 @@ Created on Sun Dec 13 14:03:16 2020
 """
 
 import pandas as pd
-import numpy as np
 import glob
 import re
 
 def create_csv():
-       outfield = pd.read_csv("Outfield Players 2021-2022.csv")
-       goalkeepers = pd.read_csv("Goalkeepers 2021-2022.csv")
-       team_attacking = pd.read_csv("teams_offence.csv")
-       team_defending = pd.read_csv("teams_defence.csv")
-       fpl_gw = pd.read_csv("fpl_gw_2021_2022.csv")
+       outfield = pd.read_csv("Data/Outfield Players 2021-2022.csv")
+       goalkeepers = pd.read_csv("Data/Goalkeepers 2021-2022.csv")
+       team_attacking = pd.read_csv("Data/teams_offence.csv")
+       team_defending = pd.read_csv("Data/teams_defence.csv")
+       fpl_gw = pd.read_csv("Data/fpl_gw_2021_2022.csv")
        fpl_gw_cols = ['name', 'position', 'team', 'minutes', 'opponent_team', 'value', 'GW', 'was_home', 'total_points']
        numerical_outfield_cols = ['Min', 'xG', 'xA', 'Touches']
        numerical_goalkeeper_cols = ['Min', 'PSxG']
@@ -84,7 +83,7 @@ def create_csv():
        outfield_fpl_gw = outfield_fpl_gw.rename(columns={'xG_over_5':'xG_over_5_att'})
        goalkeepers_fpl_gw = goalkeepers_fpl_gw.rename(columns={'xG_over_5':'xG_over_5_def'})
        # Selecting columns for analysis
-       important_cols = ['name','Venue', 'Round','Squad', 'Opponent', 'total_points', 'Min_last_5',
+       important_cols = ['name','position', 'Venue', 'Round','Squad', 'Opponent', 'total_points', 'Min_last_5',
        'xG_last_5', 'xA_last_5', 'xG_over_5_att', 'xG_over_5_def', 'xG_over_5_opp_att', 'xG_over_5_opp_def']
        goalkeeper_cols = ['name','Venue', 'Round','Squad', 'Opponent', 'total_points', 'Min_last_5', 'xG_over_5_def', 'xG_over_5_opp_att']
        
@@ -92,8 +91,8 @@ def create_csv():
        goalkeeper_model_df = goalkeepers_fpl_gw[goalkeeper_cols]
        
 
-       outfield_model_df.to_csv("outfield_model_data" + '2021-2022'+ ".csv")
-       goalkeeper_model_df.to_csv("goalkeeper_model_data" + '2021-2022'+ ".csv")
+       outfield_model_df.to_csv("Data/outfield_model_data" + '2021-2022'+ ".csv")
+       goalkeeper_model_df.to_csv("Data/goalkeeper_model_data" + '2021-2022'+ ".csv")
 
 if __name__ == '__main__':
        create_csv()

@@ -6,7 +6,6 @@ Created on Mon Dec 27 17:14:35 2021
 """
 
 import pandas as pd
-import re
 import requests
 import time
 

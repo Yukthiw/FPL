@@ -85,12 +85,3 @@ class FPLFbrefScraper(Scraper):
         keeper_df['Round'] = keeper_df['Round'].str.replace("Matchweek ", "")
         player_df.to_csv("Outfield Players " + year + ".csv")
         keeper_df.to_csv("Goalkeepers " + year + ".csv")
-if __name__ == '__main__':
-    from tokenize import Comment
-    import sys
-    sys.path.append('..')
-    from bs4 import BeautifulSoup
-    import requests
-    import pandas as pd
-    import re
-    import Controllers.ScraperController as ScraperController
